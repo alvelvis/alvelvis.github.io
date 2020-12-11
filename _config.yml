@@ -6,8 +6,8 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: /
-domain_name: "https://alvelvis.github.io"
+baseurl: ""
+domain_name: "alvelvis.github.io"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
