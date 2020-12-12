@@ -5,7 +5,7 @@ title: Fale inglês comigo
 
 Aprenda inglês com aulas on-line totalmente direcionadas aos seus interesses, aptidões e necessidades. A utilização de recursos da Linguística de Corpus torna o aprendizado mais fácil e orgânico a partir de análises da língua em contextos reais de uso e em diferentes gêneros textuais.
 
-Sobre o professor Elvis de Souza:
+Sobre Elvis de Souza, o professor:
 - {{site.profdesc}}
 - [Saiba mais](/sobre)
 
