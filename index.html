@@ -15,12 +15,13 @@ freela: 'freela'
                 </a>
             {% endif %}
         <a class="subscribe-button icon-feed" href="{{'feed.xml' | relative_url }} ">RSS</a>
+        <a style="margin-right:5px" alt="Translate this page" onclick="translatePage()" class="subscribe-button" href="#">🇬🇧 English</a>
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
             <h1 class="page-title">{{ site.name }}</h1>
             <h2 class="page-description">
-                {% if site.description %} {{ site.description }}. {% endif %}
+                <!--{% if site.description %} {{ site.description }}. {% endif %}-->
                 <br>
                 <a href='{{page.about | relative_url}}'> Sobre mim </a>
                 | <a href='{{page.english | relative_url}}'> Quero aprender inglês </a>

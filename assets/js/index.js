@@ -1,3 +1,7 @@
+function translatePage() {
+    window.location = "https://translate.google.com/translate?hl=en&sl=pt&tl=en&u=" + window.location.href
+}
+
 /**
  * Main JS file for Casper behaviours
  */
