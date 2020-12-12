@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Home
+title: Início
 cover: false
-about: 'about.html'
+about: 'sobre'
+english: 'english'
+freela: 'freela'
 ---
 
 <header class="main-header {% if page.cover %}" style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
@@ -12,18 +14,21 @@ about: 'about.html'
                     <img src="{{ page.logo }}" alt="Blog Logo" />
                 </a>
             {% endif %}
-        <a class="subscribe-button icon-feed" href="{{'feed.xml' | relative_url }} ">Subscribe</a>
+        <a class="subscribe-button icon-feed" href="{{'feed.xml' | relative_url }} ">RSS</a>
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
             <h1 class="page-title">{{ site.name }}</h1>
             <h2 class="page-description">
                 {% if site.description %} {{ site.description }}. {% endif %}
-                {% if page.about %} <a href='{{page.about | relative_url}}'> About me </a> {% endif %}
+                <br>
+                <a href='{{page.about | relative_url}}'> Sobre mim </a>
+                | <a href='{{page.english | relative_url}}'> Quero aprender inglês </a>
+                | <a href='{{page.freela | relative_url}}'> Freelas </a>
             </h2>
         </div>
     </div>
-    <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
+    <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Role p/ Baixo</span></a>
 </header>
 
 
@@ -45,13 +50,13 @@ about: 'about.html'
         </section>
         <footer class="post-meta">
             {% if site.author %}
-                <img class="author-thumb" src="{{'/assets/images/profile.png' | relative_url}}" alt="Author's profile picture" nopin="nopin" />
+                <img class="author-thumb" src="{{'/assets/images/profile.png' | relative_url}}" alt="Imagem do autor" nopin="nopin" />
                 {{ site.author }}
             {% endif %}
             {% if post.categories.size > 0 %} 
-                {{ post.categories | array_to_sentence_string | prepend: 'on ' }} 
+                {{ post.categories | array_to_sentence_string | prepend: 'em ' }} 
             {% endif %}
-            <time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">
+            <time class="post-date" datetime="{{ post.date | date:"%d-%m-%Y" }}">
                 {{ post.date | date_to_string }}
             </time> 
         </footer>
