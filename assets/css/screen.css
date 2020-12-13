@@ -710,7 +710,7 @@ margin on the iframe, cause it breaks stuff. */
     letter-spacing: -1px;
     font-weight: 700;
     font-family: "Open Sans", sans-serif;
-    color: rgb(41, 41, 41);
+    color: rgb(82, 82, 82);
 }
 
 .page-description {
@@ -738,7 +738,7 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 .no-cover .page-title {
-    color: #000000; /* rgba(0,0,0,0.8);*/
+    color: #353535; /* rgba(0,0,0,0.8);*/
 }
 
 .no-cover .page-description {
@@ -1185,13 +1185,14 @@ body:not(.post-template) .post-title {
     display: block;
     position: absolute;
     top: -25px;
-    left: 44%;
-    margin-left: -40px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
     width: 140px;
     height: 140px;
     border-radius: 100%;
     overflow: hidden;
-    padding: 6px;
+    /*padding: 6px;*/
     background: #fff;
     z-index: -1;
     box-shadow: #E7EEF2 0 0 0 1px;
@@ -1204,13 +1205,13 @@ body:not(.post-template) .post-title {
     display: block;
     position: relative;
     top: 10%;
-    left: 46%;
-    margin-left: -40px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
     width: 140px;
     height: 140px;
     border-radius: 100%;
     overflow: hidden;
-    padding: 6px;
     background: #fff;
     z-index: 1;
     box-shadow: #E7EEF2 0 0 0 1px;

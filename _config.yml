@@ -11,7 +11,7 @@ domain_name: "alvelvis.github.io"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
-shortdesc: "Pesquisador, professor de inglês e desenvolvedor"
+shortdesc: "Pós-graduando, professor de inglês e desenvolvedor"
 authordesc: "Escrevo sobre linguagem, robôs, e sobre como robôs aprendem linguagem."
 authordescen: "I write about language, robots. and how robots learn language."
 authordesc2: Pós-graduando em Linguística Computacional no PPGEL/PUC-Rio. Entendo um pouco de linguagem, de robôs, e de como robôs aprendem linguagem.

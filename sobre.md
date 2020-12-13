@@ -44,7 +44,7 @@ Rio de Janeiro, RJ / Brasil
 - 2021-hoje: Mestrado no Programa de Pós-Graduação em Estudos da Linguagem - PPGEL/PUC-Rio
     - [Aprovado em 1º lugar](https://tronco.ga/media/APROVADOS_NA_3A_ETAPA_-_MESTRADO.pdf)
     - Bolsista pela CAPES e ICA/PUC-Rio
-- 2020: Curso "Formação em processamento de corpos, PLN, anotação, e estatística", parte do projeto BILLIG, ministrado pela profa. Diana Santos da Universidade de Oslo
+- 2020: Curso "Formação em processamento de corpos, PLN, anotação, e estatística", parte do projeto [BILLIG](https://billig.fcsh.unl.pt/), ministrado pela profa. Diana Santos da Universidade de Oslo
     - Carga horária: [20 horas](https://tronco.ga/media/certificadoElvisBILLIG.pdf)
 - 2019: Disciplina "Introdução à Interação Humano-Computador", do Departamento de Informática da PUC-Rio
     - Créditos: 4
