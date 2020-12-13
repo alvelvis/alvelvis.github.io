@@ -24,7 +24,7 @@ function estimateTime(text) {
 function translatePage(lang) {
     switch (lang) {
         case 'en':
-            window.location = "https://translate.google.com/translate?hl=en&sl=pt&tl=en&u=" + window.location.href
+            window.location = "https://translate.google.com/translate?hl=pt&sl=pt&tl=en&u=" + window.location.href
             break
         case 'pt':
     }       window.location = "https://translate.google.com/translate?hl=pt&sl=en&tl=pt&u=" + window.location.href

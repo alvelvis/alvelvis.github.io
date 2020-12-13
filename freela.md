@@ -6,7 +6,7 @@ title: Tem freela para todo mundo
 Você provavelmente já passou por alguma das duas situações:
 
 - 🤖 Você se pegou durante mais de 30 minutos repetindo uma atividade no computador. Copia, cola, recorta, apaga 5 vezes, digita 10 letras, e repete tudo novamente. Isso não é tarefa humana -- faça seu computador trabalhar para você!
-- 📊 Você trabalha com muitos dados. Você precisa coletá-los de algum site, de planilhas ou de documentos de texto, e precisa organizá-los e explorá-los. Você nunca dará conta deles sozinho, você é lento e comete muitos erros, e o prazo está apertando. E de fato: a análise dos dados cabe a você; manipulá-los, contudo, provavelmente pode ser tarefa computacional!
+- 📊 Você trabalha com muitos dados. Você precisa coletá-los de algum site, de planilhas ou de documentos de texto, e precisa organizá-los e explorá-los. Você nunca dará conta deles sozinho, você é lento e comete muitos erros, e o prazo está apertando. De fato: a análise dos dados cabe a você; manipulá-los, contudo, provavelmente pode ser tarefa computacional!
 
 ### Freelas
 
