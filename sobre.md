@@ -3,7 +3,7 @@ layout: page
 title: Sobre mim
 ---
 
-{{site.authordesc}} <a href='/english'>Ensino inglês</a> e <a href='/freela'>trabalho como freelancer</a>
+{{site.authordesc}} <a href='/english'>Ensino inglês</a> e <a href='/freela'>trabalho como freelancer</a>.
 
 Onde estou: 🐦 [Twitter](https://twitter.com/alveselvis2) / 👨‍💻 [GitHub](http://github.com/alvelvis)
 

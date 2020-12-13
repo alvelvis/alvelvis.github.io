@@ -35,10 +35,10 @@ Tem inglês para todo mundo:
 
 Você escolhe como deseja investir no seu inglês:
 
-- Mensal: duas aulas de 1h por semana - R$80,00/mês
-- Mensal: uma aula de 3h por semana - R$120,00/mês
-- Mensal: duas aulas de 2h por semana - R$160,00/mês
-- Monte seu próprio plano de estudos - R$15,00/hora
+- Mensal: 1 hora por semana, sempre no mesmo dia - R$160,00/mês
+- Mensal: 2 horas por semana, sempre nos mesmos dias - R$300,00/mês
+- Mensal: 3 horas por semana, sempre nos mesmos dias - R$400,00/mês
+- Monte seu próprio plano de estudos - R$46,00/hora
 - Observação: o primeiro encontro dispensa investimento prévio. ✔️
 
 ### Atenção
