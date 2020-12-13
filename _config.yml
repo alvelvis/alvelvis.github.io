@@ -11,7 +11,9 @@ domain_name: "alvelvis.github.io"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
+shortdesc: "Pesquisador, professor de inglês e desenvolvedor"
 authordesc: "Escrevo sobre linguagem, robôs, e sobre como robôs aprendem linguagem."
+authordescen: "I write about language, robots. and how robots learn language."
 authordesc2: Pós-graduando em Linguística Computacional no PPGEL/PUC-Rio. Entendo um pouco de linguagem, de robôs, e de como robôs aprendem linguagem.
 profdesc: Bacharel em Letras Português/Inglês pela Pontifícia Universidade Católica do Rio de Janeiro, mestrando em Linguística Computacional pelo PPGEL/PUC-Rio. Membro do grupo de pesquisa em Linguística Computacional, Corpus e Humanidades Digitais [(ComCorHd/PUC-Rio)](http://comcorhd.letras.puc-rio.br) desde 2018.
 skills: "

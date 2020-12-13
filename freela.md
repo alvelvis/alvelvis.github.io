@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Me contrate, faço freelas!
+title: Tem freela para todo mundo
 ---
 
 Você provavelmente já passou por algumas das duas situações:

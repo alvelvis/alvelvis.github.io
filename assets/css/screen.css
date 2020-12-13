@@ -10,7 +10,7 @@
     height: 48px;
     position:fixed;
     top: 85%;
-    left: 87%;
+    left: 80%;
 }
 
 .index-post-cover { 
@@ -710,7 +710,7 @@ margin on the iframe, cause it breaks stuff. */
     letter-spacing: -1px;
     font-weight: 700;
     font-family: "Open Sans", sans-serif;
-    color: #fff;
+    color: rgb(41, 41, 41);
 }
 
 .page-description {
@@ -720,7 +720,15 @@ margin on the iframe, cause it breaks stuff. */
     font-weight: 400;
     font-family: "Merriweather", serif;
     letter-spacing: 0.01rem;
-    color: rgba(255,255,255,0.8);
+    color: rgba(100, 100, 100, 0.8);
+}
+
+.page-description a {
+    color: rgb(102, 102, 102);
+}
+
+.page-description a:hover {
+    color: rgb(0, 0, 0);
 }
 
 .no-cover.main-header {
@@ -1189,6 +1197,25 @@ body:not(.post-template) .post-title {
     box-shadow: #E7EEF2 0 0 0 1px;
 }
 
+.author-image-home {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    position: relative;
+    top: 10%;
+    left: 46%;
+    margin-left: -40px;
+    width: 140px;
+    height: 140px;
+    border-radius: 100%;
+    overflow: hidden;
+    padding: 6px;
+    background: #fff;
+    z-index: 1;
+    box-shadow: #E7EEF2 0 0 0 1px;
+}
+
 .author-image .img {
     position: relative;
     display: block;
@@ -1411,7 +1438,7 @@ body:not(.post-template) .post-title {
         height: auto;
         min-height: 240px;
         height: 60%;
-        padding: 15% 0;
+        padding: 15% 0 0;
     }
 
     .scroll-down,

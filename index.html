@@ -18,16 +18,23 @@ freela: 'freela'
         <a style="margin-right:5px" alt="Translate this page" onclick="translatePage()" class="subscribe-button" href="#">🇬🇧 English</a>
     </nav>
     <div class="vertical">
-        <div class="main-header-content inner">
+        <div class="main-header-content inner" style="margin-top:10%">
+            <figure class="author-image author-image-home">
+                <a class="img" style="background-image: url({{'/assets/images/profile.png' | relative_url}})">
+                <span class="hidden">{{site.author}}</span></a>
+            </figure>
             <h1 class="page-title">Oi, eu sou Elvis.</h1>
             <h2 class="page-description">
-                <!--{% if site.description %} {{ site.description }}. {% endif %}-->
+                Rio de Janeiro, Brasil
                 <br>
+                {% if site.shortdesc %} {{ site.shortdesc }} {% endif %}
+                <br><br>
                 <a href='{{page.about | relative_url}}'>Sobre mim</a>
                 | <a href='{{page.english | relative_url}}'>Quero aprender inglês</a>
                 | <a href='{{page.freela | relative_url}}'>Freelas</a>
             </h2>
         </div>
+        <hr style="margin-bottom:0px">
     </div>
     <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Role p/ Baixo</span></a>
     
@@ -44,8 +51,8 @@ freela: 'freela'
 
     <article class="post">
         <header class="post-header">
-            <a href="{{ post.url | relative_url }}" style="text-decoration:none">
-                {% if post.cover %}<img title="{{post.title}}" src="{{post.cover}}" class="index-post-cover" style="border-radius:5px; max-width:100%" />{% endif %}
+            <a href="{{ post.url | relative_url }}" class="index-post-cover" style="text-decoration:none">
+                {% if post.cover %}<img title="{{post.title}}" src="{{post.cover}}" class="" style="border-radius:5px; max-width:100%" />{% endif %}
                 <h2 class="post-title">{{ post.title }}</h2>
             </a>
         </header>

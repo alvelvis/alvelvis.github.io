@@ -3,6 +3,7 @@ layout: post
 title:  "Como vim parar na linguística computacional"
 date:   2020-12-12 03:06:00
 categories: Pessoal
+lang: pt
 cover: https://www.veracode.com/sites/default/files/styles/webp_large/public/developer-guide-blog-2.webp?itok=FFkU3ejZ
 ---
 

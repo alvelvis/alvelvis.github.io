@@ -21,8 +21,13 @@ function estimateTime(text) {
     return Math.round(text.split(" ") / 130)
 }
 
-function translatePage() {
-    window.location = "https://translate.google.com/translate?hl=en&sl=pt&tl=en&u=" + window.location.href
+function translatePage(lang) {
+    switch (lang) {
+        case 'en':
+            window.location = "https://translate.google.com/translate?hl=en&sl=pt&tl=en&u=" + window.location.href
+            break
+        case 'pt':
+    }       window.location = "https://translate.google.com/translate?hl=pt&sl=en&tl=pt&u=" + window.location.href
 }
 
 /**
