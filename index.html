@@ -50,7 +50,7 @@ freela: 'freela'
     <article class="post">
         <header class="post-header">
             <a href="{{ post.url | relative_url }}" class="index-post-cover" style="text-decoration:none">
-                {% if post.cover %}<img title="{{post.title}}" src="{{post.cover}}" class="" style="border-radius:5px; max-width:100%" />{% endif %}
+                {% if post.cover %}<img src="{{post.cover}}" class="" style="border-radius:5px; max-width:100%" />{% endif %}
                 <h2 class="post-title">{{ post.title }}</h2>
             </a>
         </header>

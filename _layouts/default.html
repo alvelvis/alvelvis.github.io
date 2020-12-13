@@ -7,6 +7,12 @@
     <title>{{ site.name }} - {{page.title}}</title>
     <meta name="og:description" content="{{ site.shortdesc }}" />
     <meta name="og:image" content="{{'/assets/images/profile.png' | relative_url}}" />
+    
+    {% if page.cover %}
+      <meta name="facebook:image" content="{{page.cover}}" />
+      <meta name="twitter:image" content="{{page.cover}}" />
+      <meta name="twitter:card" content="summary" />
+    {% endif %}
 
     <meta name="HandheldFriendly" content="True" />
     <meta name="MobileOptimized" content="320" />

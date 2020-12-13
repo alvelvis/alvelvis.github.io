@@ -36,7 +36,7 @@ Tem inglês para todo mundo:
 Você escolhe como deseja investir no seu inglês:
 
 - Mensal: 1 hora por semana, sempre no mesmo dia - R$160,00/mês
-- Mensal: 2 horas por semana, sempre nos mesmos dias - R$300,00/mês
+- Mensal: 2 horas por semana, sempre nos mesmos dias - R$280,00/mês
 - Mensal: 3 horas por semana, sempre nos mesmos dias - R$400,00/mês
 - Monte seu próprio plano de estudos - R$46,00/hora
 - Observação: o primeiro encontro dispensa investimento prévio. ✔️
