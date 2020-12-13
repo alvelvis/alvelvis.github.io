@@ -81,8 +81,8 @@ Rio de Janeiro, RJ / Brasil
 
 - DE SOUZA, Elvis; FREITAS, C. “Relatório anual (2018-2019) do projeto ‘Construção de datasets para o PLN de língua portuguesa’” (Relatório de pesquisa). Departamento de Letras, PUC-Rio. 2019. Disponível em: [http://comcorhd.letras.puc-rio.br/relatorio-anual-2018-2019-do-projeto-construcao-de-datasets-para-o-pln-de-lingua-portuguesa/](http://comcorhd.letras.puc-rio.br/relatorio-anual-2018-2019-do-projeto-construcao-de-datasets-para-o-pln-de-lingua-portuguesa/).
 
-- DE SOUZA, Elvis; ROCHA, Luisa. "Relatório sobre o impacto da correção de part-of-speech no corpus Bosque". 2018. Disponível em: [https://github.com/alvelvis/Experimento-Revisao-de-POS](https://github.com/alvelvis/Experimento-Revisao-de-POS).
+- DE SOUZA, Elvis; ROCHA, Luisa. "Relatório sobre o impacto da correção de part-of-speech no corpus Bosque". Departamento de Letras, PUC-Rio. 2018. Disponível em: [https://github.com/alvelvis/Experimento-Revisao-de-POS](https://github.com/alvelvis/Experimento-Revisao-de-POS).
 
-- DE SOUZA, Elvis. "Sobre a utilização do UDPipe - Parser do Universal Dependencies". 2018. Diponível em: [https://docs.google.com/document/d/1Ula5j4qm0GA58uL_eataCLyePJlhw9m-iqXNLHzlEQw/edit](https://docs.google.com/document/d/1Ula5j4qm0GA58uL_eataCLyePJlhw9m-iqXNLHzlEQw/edit).
+- DE SOUZA, Elvis. "Sobre a utilização do UDPipe - Parser do Universal Dependencies". Departamento de Letras, PUC-Rio. 2018. Diponível em: [https://docs.google.com/document/d/1Ula5j4qm0GA58uL_eataCLyePJlhw9m-iqXNLHzlEQw/edit](https://docs.google.com/document/d/1Ula5j4qm0GA58uL_eataCLyePJlhw9m-iqXNLHzlEQw/edit).
 
 

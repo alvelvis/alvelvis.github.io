@@ -1,3 +1,26 @@
+var scrollToTopBtn = document.getElementById("scrollToTopBtn")
+var rootElement = document.documentElement
+function scrollToTop() {
+    rootElement.scrollTo({
+        top: 0,
+        behavior: "smooth"
+      })
+}
+  
+scrollToTopBtn.addEventListener("click", scrollToTop)
+
+$(window).scroll(function () {
+    if ($(this).scrollTop() > 300) {
+        $('#scrollToTopBtn').fadeIn();
+    } else {
+        $('#scrollToTopBtn').fadeOut();
+    }
+})
+
+function estimateTime(text) {
+    return Math.round(text.split(" ") / 130)
+}
+
 function translatePage() {
     window.location = "https://translate.google.com/translate?hl=en&sl=pt&tl=en&u=" + window.location.href
 }

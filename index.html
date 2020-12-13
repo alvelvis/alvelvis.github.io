@@ -19,7 +19,7 @@ freela: 'freela'
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
-            <h1 class="page-title">{{ site.name }}</h1>
+            <h1 class="page-title">Oi, eu sou Elvis.</h1>
             <h2 class="page-description">
                 <!--{% if site.description %} {{ site.description }}. {% endif %}-->
                 <br>
@@ -30,6 +30,7 @@ freela: 'freela'
         </div>
     </div>
     <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Role p/ Baixo</span></a>
+    
 </header>
 
 
@@ -39,12 +40,14 @@ freela: 'freela'
     <div class="extra-pagination inner">
         {% include pagination.html %}
     </div>
-
     {% for post in paginator.posts %}
 
     <article class="post">
         <header class="post-header">
-            <h2 class="post-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+            <a href="{{ post.url | relative_url }}" style="text-decoration:none">
+                {% if post.cover %}<img title="{{post.title}}" src="{{post.cover}}" class="index-post-cover" style="border-radius:5px; max-width:100%" />{% endif %}
+                <h2 class="post-title">{{ post.title }}</h2>
+            </a>
         </header>
         <section class="post-excerpt">
             {{ post.excerpt }} <a class="read-more" href="{{ post.url | relative_url }}">&raquo;</a>
@@ -58,7 +61,23 @@ freela: 'freela'
                 {{ post.categories | array_to_sentence_string | prepend: 'em ' }} 
             {% endif %}
             <time class="post-date" datetime="{{ post.date | date:"%d-%m-%Y" }}">
-                {{ post.date | date_to_string }}
+                {% assign m = post.date | date: "%-m" %}
+                {{ post.date | date: "%-d" }}
+                {% case m %}
+                {% when '1' %}JAN
+                {% when '2' %}FEV
+                {% when '3' %}MAR
+                {% when '4' %}ABR
+                {% when '5' %}MAI
+                {% when '6' %}JUN
+                {% when '7' %}JUL
+                {% when '8' %}AGO
+                {% when '9' %}SET
+                {% when '10' %}OUT
+                {% when '11' %}NOV
+                {% when '12' %}DEZ
+                {% endcase %}
+                {{ post.date | date: "%Y" }}
             </time> 
         </footer>
     </article>
