@@ -27,9 +27,9 @@ Tem inglês para todo mundo:
 - 💬 Alunos que desejam ampliar seu repertório e vocabulário, seja sobre temas gerais ou específicos
 - 🗣️ Alunos com dificuldade de conversação, seja por timidez ou por falta de prática da língua inglesa
 - 📝 Alunos com dificuldade na escrita de textos em inglês, seja em quaisquer gêneros e sobre quaisquer assuntos
+- 💯 Alunos  matriculados em cursos de inglês à procura de reforço para serem aprovados
 - ✈️ Pessoas com objetivos específicos, como viajar de férias ou a trabalho para um dos 50 países onde o inglês é língua oficial
 - 💼 Profissionais almejando aprimorar suas habilidades linguísticas em geral para se destacarem no mercado de trabalho
-- 💯 Alunos  matriculados em cursos de inglês à procura de reforço para serem aprovados
 
 ## Investimento
 
