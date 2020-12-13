@@ -27,7 +27,9 @@ function translatePage(lang) {
             window.location = "https://translate.google.com/translate?hl=pt&sl=pt&tl=en&u=" + window.location.href
             break
         case 'pt':
-    }       window.location = "https://translate.google.com/translate?hl=pt&sl=en&tl=pt&u=" + window.location.href
+            window.location = "https://translate.google.com/translate?hl=pt&sl=en&tl=pt&u=" + window.location.href
+            break
+    }
 }
 
 /**
