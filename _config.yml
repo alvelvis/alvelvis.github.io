@@ -11,19 +11,28 @@ domain_name: "alvelvis.github.io"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
-shortdesc: "Pós-graduando, professor de inglês e desenvolvedor"
+about: 'sobre'
+english: 'aprenda-ingles'
+freela: 'freela'
+
+shortdesc: "Pós-graduando, professor de inglês particular e desenvolvedor freelancer"
 authordesc: "Escrevo sobre linguagem, robôs, e sobre como robôs aprendem linguagem."
 authordescen: "I write about language, robots. and how robots learn language."
 authordesc2: Pós-graduando em Linguística Computacional no PPGEL/PUC-Rio. Entendo um pouco de linguagem, de robôs, e de como robôs aprendem linguagem.
-profdesc: Bacharel em Letras Português/Inglês pela Pontifícia Universidade Católica do Rio de Janeiro, mestrando em Linguística Computacional pelo PPGEL/PUC-Rio. Membro do grupo de pesquisa em Linguística Computacional, Corpus e Humanidades Digitais [(ComCorHd/PUC-Rio)](http://comcorhd.letras.puc-rio.br) desde 2018.
-skills: "
+profdesc: Mestrando do Programa de Pós-Graduação em Estudos da Linguagem da Pontifícia Universidade Católica do Rio de Janeiro (PPGEL/PUC-Rio), bacharel em Letras Português/Inglês pela PUC-Rio. Membro do grupo de pesquisa em Linguística Computacional, Corpus e Humanidades Digitais [(ComCorHd/PUC-Rio)](http://comcorhd.letras.puc-rio.br) desde 2018.
+
+generalskills: "
 \n- Comunicação eficiente e não violenta
 \n- Capacidade de liderança e de trabalho em equipe
 \n- Inglês fluente, excelente escrita e experiência com pesquisa no âmbito acadêmico
+"
+specificskills: "
+\n- Conhecimento de diversas linguagem de programação
 \n- Desenvolvimento back-end (Python, Flask/Django) e front-end (Web e PWA com JavaScript)
 \n- Conhecimento de infraestrutura web (Apache), aprendizado de máquina, Linux e Git
 \n- Usuário experiente e incansável das ferramentas de busca on-line
 "
+
 portfolio: "
 \n- Tronco
 \n\t- Aplicativo de bloco de notas e tarefas multiplataforma

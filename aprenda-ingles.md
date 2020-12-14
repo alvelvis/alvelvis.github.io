@@ -27,7 +27,7 @@ Tem inglês para todo mundo:
 - 💬 Alunos que desejam ampliar seu repertório e vocabulário, seja sobre temas gerais ou específicos
 - 🗣️ Alunos com dificuldade de conversação, seja por timidez ou por falta de prática da língua inglesa
 - 📝 Alunos com dificuldade na escrita de textos em inglês, seja em quaisquer gêneros e sobre quaisquer assuntos
-- 💯 Alunos  matriculados em cursos de inglês à procura de reforço para serem aprovados
+- 💯 Alunos à procura de reforço escolar para conteúdos específicos do estudo da língua inglesa
 - ✈️ Pessoas com objetivos específicos, como viajar de férias ou a trabalho para um dos 50 países onde o inglês é língua oficial
 - 💼 Profissionais almejando aprimorar suas habilidades linguísticas em geral para se destacarem no mercado de trabalho
 
@@ -48,6 +48,6 @@ Você escolhe como deseja investir no seu inglês:
 - O primeiro encontro será direcionado a esclarecimento de dúvidas e reconhecimento dos objetivos do aluno, dispensando investimento prévio.
 - O objetivo deste curso é aprimorar as habilidades do aluno e torná-lo mais confiante para os desafios que o esperam. Não serão emitidos certificados de proficiência e tampouco podemos preparar o aluno para provas específicas de certificação.
 
-### Vamos conversar?
+### Contato
 
 - E-mail: [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)

@@ -23,11 +23,11 @@ Nesses casos e em muitos outros, você está realizando uma tarefa repetitiva qu
 
 {{site.portfolio}}
 
-### Habilidades
+### Habilidades específicas
 
-{{site.skills}}
+{{site.specificskills}}
 
-### Vamos conversar?
+### Contato
 
 - E-mail: [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)
 - O valor do serviço será sempre proporcional à quantidade de etapas envolvidas na tarefa e a complexidade delas. Todos esses assuntos podem ser discutidos previamente.
