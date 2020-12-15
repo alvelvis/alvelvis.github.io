@@ -13,7 +13,7 @@ post_class: post-template page-template
     <nav class="main-nav {% if page.cover %} overlay {% endif %} clearfix">
         <a class="back-button icon-arrow-left" href="{{'/' | relative_url }}">Início</a>
         <a class="subscribe-button icon-feed" href="{{'feed.xml' | relative_url }}">RSS</a>
-        <a style="margin-right:5px" alt="Translate this page" onclick="translatePage('en')" class="subscribe-button" href="#">🇬🇧 English</a>
+        <a style="margin-right:5px" alt="Translate this page" onclick="translatePage('en')" id="translateBtn" class="subscribe-button" href="#">🇬🇧 English</a>
     </nav>
 </header>
 
@@ -22,7 +22,7 @@ post_class: post-template page-template
     
     <article class="post">
         <figure class="author-image author-image-big">
-            <a class="img" style="background-image: url({{'/assets/images/profile.png' | relative_url}})">
+            <a class="img" style="background-image: url({{site.picture | relative_url}})">
             <span class="hidden">{{site.author}}</span></a>
         </figure>
         <!-- <header class="post-header">

@@ -71,9 +71,9 @@ Rio de Janeiro, RJ / Brasil
 
 #### Publicações
 
-- DE SOUZA, Elvis; FREITAS, C. “Bastidores linguísticos e computacionais da construção de um dataset linguístico” (Relatório de pesquisa). Departamento de Letras, PUC-Rio. 2020. Disponível em: [http://comcorhd.letras.puc-rio.br/relatorio-anual-2019-2020-do-projeto-construcao-de-datasets-para-o-pln-de-lingua-portuguesa/](http://comcorhd.letras.puc-rio.br/relatorio-anual-2019-2020-do-projeto-construcao-de-datasets-para-o-pln-de-lingua-portuguesa/).
+- DE SOUZA, Elvis; FREITAS, Cláudia. “Bastidores linguísticos e computacionais da construção de um dataset linguístico” (Relatório de pesquisa). Departamento de Letras, PUC-Rio. 2020. Disponível em: [http://comcorhd.letras.puc-rio.br/relatorio-anual-2019-2020-do-projeto-construcao-de-datasets-para-o-pln-de-lingua-portuguesa/](http://comcorhd.letras.puc-rio.br/relatorio-anual-2019-2020-do-projeto-construcao-de-datasets-para-o-pln-de-lingua-portuguesa/).
 
-- DE SOUZA, E.; SILVEIRA, A.; CAVALCANTI, T.; Evelyn, W.; FREITAS, C. Diretivas e documentação de anotação UD em português (e para língua portuguesa). 2020. Disponível em: [http://comcorhd.letras.puc-rio.br/documenta-o-ud-pt](http://comcorhd.letras.puc-rio.br/documenta-o-ud-pt).
+- DE SOUZA, Elvis.; SILVEIRA, Aline.; CAVALCANTI, Tatiana.; Evelyn, Wograine.; FREITAS, Cláudia. Diretivas e documentação de anotação UD em português (e para língua portuguesa). 2020. Disponível em: [http://comcorhd.letras.puc-rio.br/documenta-o-ud-pt](http://comcorhd.letras.puc-rio.br/documenta-o-ud-pt).
 
 - FREITAS, Cláudia; DE SOUZA, Elvis; ROCHA, Luisa. “Quantificando (e qualificando) o sujeito oculto em português”. In: **VI Jornada de Descrição do Português, STIL 2019**. 2019. Disponível em: [http://comcorhd.letras.puc-rio.br/wp-content/uploads/2020/12/sujeito-oculto-stil2019.pdf](http://comcorhd.letras.puc-rio.br/wp-content/uploads/2020/12/sujeito-oculto-stil2019.pdf).
 
@@ -83,7 +83,7 @@ Rio de Janeiro, RJ / Brasil
 
 - DE SOUZA, Elvis; FREITAS, Cláudia. “ET: uma Estação de Trabalho para revisão, edição e avaliação de corpora anotados morfossintaticamente”. In: **VI Workshop de Iniciação Científica em Tecnologia da Informação e da Linguagem Humana (TILic 2019)**. TILic 2019, Salvador, BA, Brazil, Outubro, 15-18, 2019. Disponível em: [http://comcorhd.letras.puc-rio.br/wp-content/uploads/2019/11/deSouzaandFreitas_stil2019.pdf](http://comcorhd.letras.puc-rio.br/wp-content/uploads/2019/11/deSouzaandFreitas_stil2019.pdf).
 
-- DE SOUZA, Elvis; FREITAS, C. “Relatório anual (2018-2019) do projeto ‘Construção de datasets para o PLN de língua portuguesa’” (Relatório de pesquisa). Departamento de Letras, PUC-Rio. 2019. Disponível em: [http://comcorhd.letras.puc-rio.br/relatorio-anual-2018-2019-do-projeto-construcao-de-datasets-para-o-pln-de-lingua-portuguesa/](http://comcorhd.letras.puc-rio.br/relatorio-anual-2018-2019-do-projeto-construcao-de-datasets-para-o-pln-de-lingua-portuguesa/).
+- DE SOUZA, Elvis; FREITAS, Cláudia. “Relatório anual (2018-2019) do projeto ‘Construção de datasets para o PLN de língua portuguesa’” (Relatório de pesquisa). Departamento de Letras, PUC-Rio. 2019. Disponível em: [http://comcorhd.letras.puc-rio.br/relatorio-anual-2018-2019-do-projeto-construcao-de-datasets-para-o-pln-de-lingua-portuguesa/](http://comcorhd.letras.puc-rio.br/relatorio-anual-2018-2019-do-projeto-construcao-de-datasets-para-o-pln-de-lingua-portuguesa/).
 
 - DE SOUZA, Elvis; ROCHA, Luisa. "Relatório sobre o impacto da correção de part-of-speech no corpus Bosque". Departamento de Letras, PUC-Rio. 2018. Disponível em: [https://github.com/alvelvis/Experimento-Revisao-de-POS](https://github.com/alvelvis/Experimento-Revisao-de-POS).
 

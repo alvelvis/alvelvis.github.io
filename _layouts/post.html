@@ -9,7 +9,7 @@ post_class: post-template
     <nav class="main-nav {% if page.cover %} overlay {% endif %} clearfix">
         <a class="back-button icon-arrow-left" href="{{'/' | relative_url }}">{% if page.lang and page.lang != 'pt' %}Home{% else %}Início{% endif %}</a>
         <a class="subscribe-button icon-feed" href="{{'feed.xml' | relative_url }}">RSS</a>
-        {% if page.lang and page.lang != 'pt' %}<a style="margin-right:5px" alt="Traduzir esta página" onclick="translatePage('pt')" class="subscribe-button" href="#">🇧🇷 Português</a>{% else %}<a style="margin-right:5px" alt="Translate this page" onclick="translatePage('en')" class="subscribe-button" href="#">🇬🇧 English</a>{% endif %}
+        {% if page.lang and page.lang != 'pt' %}<a style="margin-right:5px" alt="Traduzir esta página" onclick="translatePage('pt')" id="translateBtn" class="subscribe-button" href="#">🇧🇷 Português</a>{% else %}<a style="margin-right:5px" alt="Translate this page" id="translateBtn" onclick="translatePage('en')" class="subscribe-button" href="#">🇬🇧 English</a>{% endif %}
     </nav>
 </header>
 
@@ -93,7 +93,7 @@ post_class: post-template
             <!-- If we want to display author's name and bio -->
             {% if site.author %}
                 <figure class="author-image">
-                    <a class="img" href="{{'/' | relative_url }}" style="background-image: url({{'/assets/images/profile.png' | relative_url}})">
+                    <a class="img" href="{{'/' | relative_url }}" style="background-image: url({{site.picture | relative_url}})">
                     <span class="hidden">{{site.author}}</span></a>
                 </figure>
                 <section class="author">

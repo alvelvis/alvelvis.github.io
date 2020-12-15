@@ -12,12 +12,12 @@ cover: false
                 </a>
             {% endif %}
         <a class="subscribe-button icon-feed" href="{{'feed.xml' | relative_url }} ">RSS</a>
-        <a style="margin-right:5px" alt="Translate this page" onclick="translatePage('en')" class="subscribe-button" href="#">🇬🇧 English</a>
+        <a style="margin-right:5px" alt="Translate this page" onclick="translatePage('en')" id="translateBtn" class="subscribe-button" href="#">🇬🇧 English</a>
     </nav>
     <div class="vertical">
         <div class="main-header-content inner" style="margin-top:10%">
             <figure class="author-image author-image-home">
-                <a class="img" style="background-image: url({{'/assets/images/profile.png' | relative_url}})">
+                <a class="img" style="background-image: url({{site.picture | relative_url}})">
                 <span class="hidden">{{site.author}}</span></a>
             </figure>
             <h1 class="page-title">Oi, eu sou Elvis.</h1>
@@ -56,7 +56,7 @@ cover: false
         </section>
         <footer class="post-meta">
             {% if site.author %}
-                <img class="author-thumb" src="{{'/assets/images/profile.png' | relative_url}}" alt="Imagem do autor" nopin="nopin" />
+                <img class="author-thumb" src="{{site.picture | relative_url}}" alt="Imagem do autor" nopin="nopin" />
                 {{ site.author }}
             {% endif %}
             {% if post.categories.size > 0 %} 
