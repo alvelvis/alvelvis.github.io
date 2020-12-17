@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Até 46% das frases em português não tem sujeito – e por que ler é difícil"
+title:  "Até 46% das frases em português não têm sujeito – e por que ler é difícil"
 date:   2020-12-17 03:06:00
 categories: Corpus
 lang: pt
