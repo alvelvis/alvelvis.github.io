@@ -21,7 +21,7 @@ Rio de Janeiro, RJ / Brasil
 #### Experiência
 
 - 2019-hoje: Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio)
-    - Bolsista de iniciação científica e de mestrado
+    - Bolsista de iniciação científica (pré-2021) e de mestrado (2021-2022)
     - Membro do projeto [BIG Oil - Ciência de Dados para Óleo e Gás](http://petroles.ica.ele.puc-rio.br) na equipe de processamento de linguagem natural (PLN). O projeto é realizado no Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio) e é financiado pela Agêncial Nacional do Petróleo (ANP). O objetivo da equipe de PLN é criar o primeiro corpus brasileiro de textos acadêmicos da área do óleo e gás, permitindo trabalhos de extração automática de informação em textos semelhantes.
 - 2019: University Center for Computer Corpus Research on Language (UCREL/Lancaster University)
     - Assistente de pesquisa
@@ -43,7 +43,7 @@ Rio de Janeiro, RJ / Brasil
 
 - 2021-hoje: Mestrado no Programa de Pós-Graduação em Estudos da Linguagem da Pontifícia Universidade Católica do Rio de Janeiro (PPGEL/PUC-Rio)
     - [Aprovado em 1º lugar](https://tronco.ga/media/APROVADOS_NA_3A_ETAPA_-_MESTRADO.pdf)
-    - Bolsista pela CAPES e ICA/PUC-Rio
+    - Bolsista da CAPES
 - 2017-2020: Bacharelado em Letras (Português/Inglês) pela Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)
     - Bolsista pelo ProUni
 - 2020: Curso "Formação em processamento de corpos, PLN, anotação, e estatística", parte do projeto [BILLIG](https://billig.fcsh.unl.pt/), ministrado pela profa. Diana Santos da Universidade de Oslo
@@ -73,7 +73,7 @@ Rio de Janeiro, RJ / Brasil
 
 - DE SOUZA, Elvis; FREITAS, Cláudia. “Bastidores linguísticos e computacionais da construção de um dataset linguístico” (Relatório de pesquisa). Departamento de Letras, PUC-Rio. 2020. Disponível em: [http://comcorhd.letras.puc-rio.br/relatorio-anual-2019-2020-do-projeto-construcao-de-datasets-para-o-pln-de-lingua-portuguesa/](http://comcorhd.letras.puc-rio.br/relatorio-anual-2019-2020-do-projeto-construcao-de-datasets-para-o-pln-de-lingua-portuguesa/).
 
-- DE SOUZA, Elvis.; SILVEIRA, Aline.; CAVALCANTI, Tatiana.; Evelyn, Wograine.; FREITAS, Cláudia. Diretivas e documentação de anotação UD em português (e para língua portuguesa). 2020. Disponível em: [http://comcorhd.letras.puc-rio.br/documenta-o-ud-pt](http://comcorhd.letras.puc-rio.br/documenta-o-ud-pt).
+- DE SOUZA, Elvis; SILVEIRA, Aline; CAVALCANTI, Tatiana; Evelyn, Wograine; FREITAS, Cláudia. Diretivas e documentação de anotação UD em português (e para língua portuguesa). 2020. Disponível em: [http://comcorhd.letras.puc-rio.br/documenta-o-ud-pt](http://comcorhd.letras.puc-rio.br/documenta-o-ud-pt).
 
 - FREITAS, Cláudia; DE SOUZA, Elvis; ROCHA, Luisa. “Quantificando (e qualificando) o sujeito oculto em português”. In: **VI Jornada de Descrição do Português, STIL 2019**. 2019. Disponível em: [http://comcorhd.letras.puc-rio.br/wp-content/uploads/2020/12/sujeito-oculto-stil2019.pdf](http://comcorhd.letras.puc-rio.br/wp-content/uploads/2020/12/sujeito-oculto-stil2019.pdf).
 

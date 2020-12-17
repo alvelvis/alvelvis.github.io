@@ -4,13 +4,13 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-    <title>{{ site.name }}: {{page.title}}</title>
+    <title>{{page.title}}{% if page.layout != 'post' %} - {{ site.name }}{% endif %}</title>
     <meta name="og:description" content="{{ site.shortdesc }}" />
     
     {% if page.cover %}
+      <meta name=”twitter:card” content=”summary” /> 
+      <meta name=”twitter:image” content=”{{page.cover}}” />
       <meta name="og:image" content="{{page.cover}}" />
-      <meta name="twitter:image" content="{{page.cover}}" />
-      <meta name="twitter:card" content="summary" />
     {% else %}
       <meta name="og:image" content="{{'/assets/images/profile.png' | relative_url}}" />
     {% endif %}
