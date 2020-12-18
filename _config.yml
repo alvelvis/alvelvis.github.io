@@ -8,7 +8,7 @@ logo: false
 paginate: 15
 baseurl: ""
 domain_name: "alvelvis.github.io"
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "G-12ZKTMN0RJ"
 plugins: [jekyll-paginate]
 
 about: 'sobre'

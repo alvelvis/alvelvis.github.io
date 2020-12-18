@@ -30,4 +30,4 @@ Nesses casos e em muitos outros, você está realizando uma tarefa repetitiva qu
 ### Contato
 
 - E-mail: [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)
-- O valor do serviço será sempre proporcional à quantidade de etapas envolvidas na tarefa e a complexidade delas. Todos esses assuntos podem ser discutidos previamente.
+- O valor do serviço será sempre proporcional à quantidade e complexidade das etapas envolvidas na tarefa. O assunto deverá ser discutido antes da finalização do pedido de serviço.

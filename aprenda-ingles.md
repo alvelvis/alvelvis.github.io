@@ -3,7 +3,7 @@ layout: page
 title: Agora eu aprendo inglês!
 ---
 
-Aprenda inglês com aulas on-line totalmente direcionadas aos seus objetivos, interesses e habilidades. A utilização de recursos da Linguística de Corpus torna o aprendizado mais fácil e orgânico: o aluno sempre estará em contato com a língua inglesa em contextos reais de uso e em diferentes gêneros textuais.
+Aprenda inglês com aulas on-line totalmente direcionadas aos seus objetivos, interesses e habilidades. A utilização de [recursos da Linguística de Corpus](/corpus/2020/12/18/teaching-with-corpus.html) torna o aprendizado mais fácil e orgânico: o aluno sempre estará em contato com a língua inglesa em contextos reais de uso e em diferentes gêneros textuais.
 
 ### Sobre o professor
 
@@ -44,7 +44,7 @@ Você escolhe como deseja investir no seu inglês:
 ### Atenção
 
 - Não serão aceitos alunos menores de 14 anos de idade.
-- Alunos que investirem em planos mensais terão de pagar a mensalidade integralmente em dia previamente combinado do mês, mesmo em caso de ausência do aluno em alguma das aulas. Nessa situação, a aula será reposta assim que houver disponibilidade de aluno e professor.
+- Planos mensais têm embutido no valor descontos de acordo com o número de aulas; como contrapartida, os alunos terão de pagar a mensalidade integralmente em dia previamente combinado do mês, mesmo em caso de ausência do aluno em alguma das aulas. Nessa situação, a aula perdida será reposta assim que houver disponibilidade de aluno e professor.
 - O primeiro encontro será direcionado a esclarecimento de dúvidas e reconhecimento dos objetivos do aluno, dispensando investimento prévio.
 - O objetivo deste curso é aprimorar as habilidades do aluno e torná-lo mais confiante para os desafios que o esperam. Não serão emitidos certificados de proficiência e tampouco podemos preparar o aluno para provas específicas de certificação.
 
