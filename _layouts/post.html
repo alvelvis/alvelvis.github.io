@@ -20,6 +20,11 @@ post_class: post-template
         <header class="post-header">
             <h1 class="post-title">{{ page.title }}</h1>
             <section class="post-meta">
+                <figure class="author-image-post">
+                    <a class="img" href="{{'/' | relative_url }}" style="background-image: url({{site.picture | relative_url}})"></a>
+                </figure>                
+                <a href="{{'/' | relative_url }}" class="author">{{site.author}}</a> 
+                <span class="post-categories">
                 {% if page.categories.size > 0 %}
                     {% if page.lang and page.lang != 'pt' %}
                         {{ page.categories | array_to_sentence_string | prepend: 'in ' }}
@@ -27,6 +32,9 @@ post_class: post-template
                         {{ page.categories | array_to_sentence_string | prepend: 'em ' }}
                     {% endif %}
                 {% endif %}
+                </span>
+                · 
+                {{ content | split: " " | size | divided_by: 250 }} min {% if page.lang and page.lang != 'pt' %} read{% else %} lendo{% endif %}
                 <time class="post-date" datetime="{{ page.date | date:"%d-%m-%Y" }}">
                     {% if page.lang and page.lang != 'pt' %}
                         {{ page.date | date_to_string}}
@@ -50,7 +58,6 @@ post_class: post-template
                         {{ page.date | date: "%Y" }}
                     {% endif %}
                 </time>
-                <br>{% if page.lang and page.lang != 'pt' %}Reading time:{% else %}Tempo de leitura:{% endif %} {{ content | split: " " | size | divided_by: 250 }} min
             </section>
         </header>
 
@@ -76,6 +83,9 @@ post_class: post-template
         <section class="post-content">
             <br>
             {{content}}
+            {% if page.cover %}
+                {% if page.lang and page.lang != 'pt' %}Cover{% else %}Capa{% endif %}: <a href="{{page.cover}}">{{page.cover | slice: 0, 60}}...</a>
+            {% endif %}
         </section>
 
         {% if page.archive %}

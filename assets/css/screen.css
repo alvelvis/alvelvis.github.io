@@ -1217,7 +1217,7 @@ body:not(.post-template) .post-title {
     box-shadow: #E7EEF2 0 0 0 1px;
 }
 
-.author-image .img {
+.author-image .img, .author-image-post .img {
     position: relative;
     display: block;
     width: 100%;
@@ -1226,6 +1226,21 @@ body:not(.post-template) .post-title {
     background-position: center center;
     border-radius: 100%;
 }
+
+.author-image-post {
+    float: left;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    position: relative;
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    overflow: hidden;
+    margin-right: 6px;
+}
+
 
 .author-profile .author-image {
     position: relative;
@@ -1639,7 +1654,7 @@ body:not(.post-template) .post-title {
         line-height: 1.65em;
     }
 
-    .post-date {
+    .post-categories {
         display: none;
     }
 
