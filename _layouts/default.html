@@ -6,7 +6,7 @@
 
     <title>{{page.title}}{% if page.layout != 'post' %} - {{ site.name }}{% endif %}</title>
     <meta name="og:title" content="{{page.title}}{% if page.layout != 'post' %} - {{ site.name }}{% endif %}" />
-    <meta name="og:description" content="{{ site.description }}" />
+    <meta name="og:description" content="{% if page.excerpt %}{{page.excerpt | strip_html}}{% else %}{{ site.description }}{% endif %}" />
 
     {% if page.cover %}
       <meta name="twitter:card" content="summary_large_image" />
@@ -24,6 +24,7 @@
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
     <!-- Customisation  -->
     <link rel="stylesheet" type="text/css" href="{{'/assets/css/main.css' | relative_url}} " />
+    <link rel="stylesheet" href="{{'/assets/font-awesome-4.7.0/css/font-awesome.min.css' | relative_url}}">
 
 </head>
 <body class="{% if page.post_class %}{{page.post_class}}{% else %}home-template{% endif %}">

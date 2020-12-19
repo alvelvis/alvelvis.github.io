@@ -47,7 +47,9 @@ cover: false
     <article class="post">
         <header class="post-header">
             <a href="{{ post.url | relative_url }}" class="index-post-cover" style="text-decoration:none">
-                {% if post.cover %}<img src="{{post.cover}}" class="" style="border-radius:5px; max-width:100%" />{% endif %}
+                <div class="cover">
+                    {% if post.cover %}<img src="{{post.cover}}" class="img" />{% endif %}
+                </div>
                 <h2 class="post-title">{{ post.title }}</h2>
             </a>
         </header>
@@ -70,6 +72,7 @@ cover: false
             {% endif %}
             · -->
             {{ post.content | split: " " | size | divided_by: 250 }} min {% if post.lang and post.lang != 'pt' %} read{% else %} lendo{% endif %}
+            · 
             <time class="post-date" datetime="{{ post.date | date:"%d-%m-%Y" }}">
                 {% if post.lang and post.lang != 'pt' %}
                     {{ post.date | date_to_string}}

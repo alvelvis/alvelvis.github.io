@@ -13,11 +13,11 @@
     z-index:3
 }
 
-.index-post-cover { 
+.index-post-cover .cover { 
     -webkit-animation: makedark 0.2s linear 1 normal forwards;
 } 
   
-.index-post-cover:hover { 
+.index-post-cover:hover .cover { 
     -webkit-animation: makeopaque 0.1s linear 1 normal forwards;
 }
 
@@ -204,6 +204,15 @@ table { border-collapse: collapse; border-spacing: 0; }
 .icon-link:before {
     content: "\f608";
 }
+
+/*
+.icon-facebook, .icon-twitter, .icon-whatsapp {
+    opacity: 80%;
+}
+
+.icon-facebook, .icon-twitter, .icon-whatsapp:hover {
+    opacity: 100%;
+}*/
 
 
 /* ==========================================================================
@@ -848,9 +857,9 @@ body:not(.post-template) .post-title {
 
 .post-date {
     display: inline-block;
-    margin-left: 8px;
-    padding-left: 12px;
-    border-left: #d5dbde 1px solid;
+    /*margin-left: 8px;
+    padding-left: 8px;*/
+    /*border-left: #d5dbde 1px solid;*/
     text-transform: uppercase;
     font-size: 1.3rem;
     white-space: nowrap;
@@ -897,6 +906,17 @@ body:not(.post-template) .post-title {
 /* ==========================================================================
    5. Single Post - When you click on an individual post
    ========================================================================== */
+
+.post-header .cover {
+    margin-bottom: 10px;
+    border-radius: 5px;
+    max-height: 300px;
+    overflow: hidden;
+}
+
+.post-header .cover .img {
+    max-width: 100%;
+}
 
 .post-template .post-header {
    margin-bottom: 3.4rem;
