@@ -8,7 +8,7 @@
         onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
         <i class="fa fa-facebook"></i>
     </a>
-    <a target="_blank" href="https://web.whatsapp.com/send?text={{page.title | replace: '%', '%25' }}%0D%0A{{site.domain_name}}{{page.url}}">
+    <a href="https://api.whatsapp.com/send?text={{page.title | replace: '%', '%25' }}%0D%0A{{site.domain_name}}{{page.url}}">
         <i class="fa fa-whatsapp"></i>
     </a>
 </section>
