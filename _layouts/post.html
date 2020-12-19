@@ -50,7 +50,7 @@ post_class: post-template
                         {{ page.date | date: "%Y" }}
                     {% endif %}
                 </time>
-                <br>{% if page.lang and page.lang != 'pt' %}Average reading time:{% else %}Tempo médio de leitura:{% endif %} {{ content | split: " " | size | divided_by: 130 }} min.
+                <br>{% if page.lang and page.lang != 'pt' %}Reading time:{% else %}Tempo de leitura:{% endif %} {{ content | split: " " | size | divided_by: 250 }} min
             </section>
         </header>
 
