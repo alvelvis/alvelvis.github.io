@@ -55,30 +55,43 @@ cover: false
             {{ post.excerpt }} <a class="read-more" href="{{ post.url | relative_url }}">&raquo;</a>
         </section>
         <footer class="post-meta">
+            {% if post.categories.size > 0 %}
+                {% if post.lang and post.lang != 'pt' %}
+                    {{ post.categories | array_to_sentence_string | prepend: 'In ' }}
+                {% else %}
+                    {{ post.categories | array_to_sentence_string | prepend: 'Em ' }}
+                {% endif %}
+            {% endif %}
+            · 
+            <!--
             {% if site.author %}
                 <img class="author-thumb" src="{{site.picture | relative_url}}" alt="Imagem do autor" nopin="nopin" />
                 {{ site.author }}
             {% endif %}
-            · 
+            · -->
             {{ post.content | split: " " | size | divided_by: 250 }} min {% if post.lang and post.lang != 'pt' %} read{% else %} lendo{% endif %}
             <time class="post-date" datetime="{{ post.date | date:"%d-%m-%Y" }}">
-                {% assign m = post.date | date: "%-m" %}
-                {{ post.date | date: "%-d" }}
-                {% case m %}
-                {% when '1' %}JAN
-                {% when '2' %}FEV
-                {% when '3' %}MAR
-                {% when '4' %}ABR
-                {% when '5' %}MAI
-                {% when '6' %}JUN
-                {% when '7' %}JUL
-                {% when '8' %}AGO
-                {% when '9' %}SET
-                {% when '10' %}OUT
-                {% when '11' %}NOV
-                {% when '12' %}DEZ
-                {% endcase %}
-                {{ post.date | date: "%Y" }}
+                {% if post.lang and post.lang != 'pt' %}
+                    {{ post.date | date_to_string}}
+                {% else %}
+                    {% assign m = post.date | date: "%-m" %}
+                    {{ post.date | date: "%-d" }}
+                    {% case m %}
+                    {% when '1' %}JAN
+                    {% when '2' %}FEV
+                    {% when '3' %}MAR
+                    {% when '4' %}ABR
+                    {% when '5' %}MAI
+                    {% when '6' %}JUN
+                    {% when '7' %}JUL
+                    {% when '8' %}AGO
+                    {% when '9' %}SET
+                    {% when '10' %}OUT
+                    {% when '11' %}NOV
+                    {% when '12' %}DEZ
+                    {% endcase %}
+                    {{ post.date | date: "%Y" }}
+                {% endif %}
             </time> 
         </footer>
     </article>
