@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tem freela para todo mundo
+title: Desenvolvedor freelancer
 ---
 
 Desenvolvimento de programas para Windows/Linux, aplicativos Web e automações de todo tipo. Manipulação automática de texto, mineração de dados, compilação e anotação de datasets/corpora linguísticos.
