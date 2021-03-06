@@ -22,8 +22,8 @@ Rio de Janeiro, RJ / Brasil
 
 - 2019-hoje: Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio)
     - Bolsista de iniciação científica (pré-2021) e de mestrado (2021-2022)
-    - Membro do projeto [BIG Oil - Ciência de Dados para Óleo e Gás](http://petroles.ica.ele.puc-rio.br) na equipe de processamento de linguagem natural (PLN). O projeto é realizado no Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio) e é financiado pela Agêncial Nacional do Petróleo (ANP). O objetivo da equipe de PLN é criar o primeiro corpus brasileiro de textos acadêmicos da área do óleo e gás, permitindo trabalhos de extração automática de informação em textos semelhantes.
-- 2019: University Center for Computer Corpus Research on Language (UCREL/Lancaster University)
+    - Membro do projeto [BIG Oil - Ciência de Dados para Óleo e Gás](http://petroles.ica.ele.puc-rio.br) na equipe de processamento de linguagem natural (PLN). O projeto é realizado no Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio) e é financiado pela Agência Nacional do Petróleo (ANP). O objetivo da equipe de PLN é criar o primeiro corpus brasileiro de textos acadêmicos da área do óleo e gás, permitindo trabalhos de extração automática de informação em textos semelhantes.
+- 2020: University Center for Computer Corpus Research on Language (UCREL/Lancaster University)
     - Assistente de pesquisa
     - Desenvolvimento de sistema de anotação semântica de textos em árabe utilizando Python. Trata-se da versão em árabe do [USAS - UCREL Semantic Analysis System](http://ucrel.lancs.ac.uk/usas/). O projeto se desenvolveu em parceria com as Zayed University e New York Abu Dhabi University.
 - 2018-2019: Departamento de Letras/PUC-Rio
@@ -31,7 +31,7 @@ Rio de Janeiro, RJ / Brasil
     - Participação, durante um ano e meio, no projeto "Construção de datasets para o PLN de Língua Portuguesa", sob coordenação da Prof.ª Dr.ª Cláudia Freitas do Departamento de Letras da PUC-Rio. Financiado pelo CNPq, o projeto contribuiu para o desenvolvimento das versões 2.4, 2.5 e 2.6 do treebank em língua portuguesa [Bosque-UD](https://github.com/UniversalDependencies/UD_Portuguese-Bosque), que é parte do framework [Universal Dependencies](https://universaldependencies.org). Deste projeto resultou uma [documentação](http://comcorhd.letras.puc-rio.br/documenta-o-ud-pt) detalhada das escolhas gramaticais inerentes à anotação em língua portuguesa neste formato. Também foram desenvolvidas [ferramentas para análise e anotação de corpora](https://github.com/alvelvis/Interrogat-rio) que foram usadas por outros pesquisadores e [várias publicações](#publicações) foram realizadas no âmbito do Processamento de Linguagem Natural.
 - 2018-2019: Departamento de Informática/PUC-Rio
     - Estagiário em um dos Núcleos de Inovação Tecnológica
-    - Desenvolvimento de sistema de reconhecimento de fala e identificação/extração de informações de texto no âmbito da Linguística Computacional/PLN em projeto do Banco BTG Pactual.
+    - Desenvolvimento de sistema de reconhecimento de fala e identificação/extração de informações de texto no âmbito da Linguística Computacional/PLN em projeto financiado pelo Banco BTG Pactual.
 - 2018: Núcleo de Orientação e Apoio Psicopedagógico (NOAP/PUC-Rio)
     - Voluntário da equipe de Leitura e Escrita
     - Apoio a alunos de diferentes cursos da Universidade com necessidade de aprimoramento das suas habilidades de leitura e escrita acadêmicas.
@@ -57,11 +57,7 @@ Rio de Janeiro, RJ / Brasil
 - 2014-2016: Ensino médio no Colégio de São Bento do Rio de Janeiro
     - Bolsista integral pelo [ISMART - Instituto Social para Motivar, Apoiar e Reconhecer Talentos](https://ismart.org.br)
 
-#### Habilidades gerais
-
-{{site.generalskills}}
-
-#### Habilidades específicas
+#### Habilidades
 
 {{site.specificskills}}
 
