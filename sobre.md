@@ -44,7 +44,7 @@ Rio de Janeiro, RJ / Brasil
 - 2021-hoje: Mestrado no Programa de Pós-Graduação em Estudos da Linguagem da Pontifícia Universidade Católica do Rio de Janeiro (PPGEL/PUC-Rio)
     - [Aprovação em 1º lugar](https://tronco.ga/media/APROVADOS_NA_3A_ETAPA_-_MESTRADO.pdf)
     - Bolsista do CNPq (Conselho Nacional de Desenvolvimento Científico e Tecnológico)
-- 2017-2020: Bacharelado em Letras (Português/Inglês) pela Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)
+- 2017-2020: Bacharelado em Letras Português/Inglês e respectivas literaturas pela Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)
     - Bolsista integral pelo ProUni (Programa Universidade para Todos)
 - 2020: Curso "Formação em processamento de corpos, PLN, anotação, e estatística", parte do projeto [BILLIG](https://billig.fcsh.unl.pt/), ministrado pela profa. Diana Santos da Universidade de Oslo
     - Carga horária: [20 horas](https://tronco.ga/media/certificadoElvisBILLIG.pdf)
