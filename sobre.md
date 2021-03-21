@@ -5,7 +5,7 @@ title: Sobre mim
 
 {{site.authordesc}} <a href='{{site.english | relative_url}}'>Ensino inglês</a> e <a href='{{site.freela | relative_url}}'>trabalho como desenvolvedor freelancer</a>.
 
-Onde estou: 🐦 [Twitter](https://twitter.com/alveselvis2) / 👨‍💻 [GitHub](http://github.com/alvelvis)
+Onde estou: 🐦 [Twitter](https://twitter.com/alveselvis2) / 👨‍💻 [GitHub](http://github.com/alvelvis) / 🧪 [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2710924H9)
 
 ## Elvis de Souza
 
@@ -71,7 +71,7 @@ Rio de Janeiro, RJ / Brasil
 
 - DE SOUZA, Elvis; FREITAS, Cláudia. “Bastidores linguísticos e computacionais da construção de um dataset linguístico” (Relatório de pesquisa). Departamento de Letras, PUC-Rio. 2020. Disponível em: [http://comcorhd.letras.puc-rio.br/relatorio-anual-2019-2020-do-projeto-construcao-de-datasets-para-o-pln-de-lingua-portuguesa/](http://comcorhd.letras.puc-rio.br/relatorio-anual-2019-2020-do-projeto-construcao-de-datasets-para-o-pln-de-lingua-portuguesa/).
 
-- DE SOUZA, Elvis; SILVEIRA, Aline; CAVALCANTI, Tatiana; Evelyn, Wograine; FREITAS, Cláudia. Diretivas e documentação de anotação UD em português (e para língua portuguesa). 2020. Disponível em: [http://comcorhd.letras.puc-rio.br/documenta-o-ud-pt](http://comcorhd.letras.puc-rio.br/documenta-o-ud-pt).
+- DE SOUZA, Elvis; SILVEIRA, Aline; CAVALCANTI, Tatiana; EVELYN, Wograine; FREITAS, Cláudia. Diretivas e documentação de anotação UD em português (e para língua portuguesa). 2020. Disponível em: [http://comcorhd.letras.puc-rio.br/documenta-o-ud-pt](http://comcorhd.letras.puc-rio.br/documenta-o-ud-pt).
 
 - FREITAS, Cláudia; DE SOUZA, Elvis; ROCHA, Luisa. “Quantificando (e qualificando) o sujeito oculto em português”. In: **VI Jornada de Descrição do Português, STIL 2019**. 2019. Disponível em: [http://comcorhd.letras.puc-rio.br/wp-content/uploads/2020/12/sujeito-oculto-stil2019.pdf](http://comcorhd.letras.puc-rio.br/wp-content/uploads/2020/12/sujeito-oculto-stil2019.pdf).
 
