@@ -7,7 +7,7 @@ lang: en
 cover: https://www.case.org/sites/default/files/styles/promo/public/media/image/MARAPR20_ChangingtheConversation_Hero.png?itok=ed92vRLP
 ---
 
-When I released my [English course for brazilians](/aprenda-ingles) I decided one of its biggest differentials would be the use of Corpus Linguistics resources, which is a practice that I have been employing in teaching for a while. Now I explain what that means.
+When I launched my [English course for brazilians](/aprenda-ingles) I decided one of its biggest differentials would be the use of Corpus Linguistics resources, which is a practice that I have been employing in teaching for a while. Now I explain what that means.
 
 A corpus is a collection of texts available in a digital format. Its content might be anything -- from newspaper articles, social network interactions, oral interviews, conversations or movies subtitles converted into a set of strings readable by machines. The resources that I have been developing are shaped in accordance to the students' interests -- whatever genres and subjects they value and need to learn the most -- and such *corpora* are processed with highly technological computational tools so that we are able to extract the best from a huge amount of data, easily gathering statistical and morphosyntactic patterns from it.
 
