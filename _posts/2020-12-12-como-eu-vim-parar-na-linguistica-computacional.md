@@ -7,7 +7,7 @@ lang: pt
 cover: https://www.veracode.com/sites/default/files/styles/webp_large/public/developer-guide-blog-2.webp?itok=FFkU3ejZ
 ---
 
-Há quatro anos eu decidi que queria ensinar crianças a se comunicarem eficientemente e a compreenderem sua língua materna. Há três, no entanto, estou na verdade é ensinando robôs a falar portuguẽs.
+Há quatro anos eu decidi que queria ensinar crianças a se comunicarem eficientemente e a compreenderem sua língua materna. Há três, no entanto, estou na verdade é ensinando robôs a falar português.
 
 É sempre muito difícil explicar o que eu faço. Esse provavelmente não é um flagelo apenas da minha área -- acredito que todos que se especializam demais em um assunto sempre terão dificuldade de simplificar aquilo que fazem. Mas acho, sim, que há algo de especialmente complicado no meu trabalho.
 
