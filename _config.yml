@@ -3,6 +3,8 @@ name: Elvis de Souza
 description: Mestrando em Estudos da Linguagem, membro do grupo de pesquisa em Linguística Computacional, Corpus e Humanidades Digitais
 meta_description: "Linguagem e tecnologia"
 
+exclude: ['chatbot/flask/']
+
 markdown: kramdown
 highlighter: rouge
 logo: false
