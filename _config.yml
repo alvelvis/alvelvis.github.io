@@ -1,6 +1,6 @@
 name: Elvis de Souza
 #description: "Mestrando em linguística computacional, professor de inglês e desenvolvedor freelancer"
-description: Mestrando em Estudos da Linguagem, membro do grupo de pesquisa em Linguística Computacional, Corpus e Humanidades Digitais
+description: Mestrando em Estudos da Linguagem, membro do grupo de pesquisa em Linguística Computacional, Corpus e Humanidades Digitais (ComCorHd/PUC-Rio)
 meta_description: "Linguagem e tecnologia"
 
 exclude: ['chatbot/flask/']
