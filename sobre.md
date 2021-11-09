@@ -14,6 +14,8 @@ Rio de Janeiro, RJ / Brasil
 - ✉️ - [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)
 - 🏠 - [alvelvis.github.io](https://alvelvis.github.io)
 
+Última atualização: 9 de nov. 2021.
+
 #### Resumo
 
 {{site.profdesc}}
