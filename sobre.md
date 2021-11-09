@@ -67,6 +67,8 @@ Rio de Janeiro, RJ / Brasil
 
 #### Publicações
 
+- DE SOUZA, Elvis; FREITAS, Cláudia. ET: A Workstation for Querying, Editing and Evaluating Annotated Corpora. **Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing: System Demonstrations**. EMNLP 2021, p. 35-41, Online and in Punta Cana, Dominican Republic, November, 2021. Disponível em: [https://aclanthology.org/2021.emnlp-demo.5/](https://aclanthology.org/2021.emnlp-demo.5/). Acesso em: 9 nov. 2021.
+
 - CAVALCANTI, Tatiana; SILVEIRA, Aline; DE SOUZA, Elvis; FREITAS, Cláudia. Os limites da palavra e da sentença no processamento automático de textos. **Revista Brasileira de Iniciação Científica**, \[S. l.\], v. 8, p. e021033, 2021. Disponível em: [https://periodicoscientificos.itp.ifsp.edu.br/index.php/rbic/article/view/348](https://periodicoscientificos.itp.ifsp.edu.br/index.php/rbic/article/view/348). Acesso em: 15 out. 2021.
 
 - FREITAS, Cláudia; SOUZA, Elvis de. Sujeito oculto às claras: uma abordagem descritivo-computacional / Omitted subjects revealed: a quantitative-descriptive approach. **REVISTA DE ESTUDOS DA LINGUAGEM**, \[S.l.\], v. 29, n. 2, p. 1033-1058, mar. 2021. ISSN 2237-2083. Available at: <http://www.periodicos.letras.ufmg.br/index.php/relin/article/view/17439>. Date accessed: 20 mar. 2021. DOI: [http://dx.doi.org/10.17851/2237-2083.29.2.1033-1058](http://dx.doi.org/10.17851/2237-2083.29.2.1033-1058).
