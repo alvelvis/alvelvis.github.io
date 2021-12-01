@@ -14,7 +14,7 @@ Rio de Janeiro, RJ / Brasil
 - ✉️ - [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)
 - 🏠 - [alvelvis.github.io](https://alvelvis.github.io)
 
-Última atualização: 9 de nov. 2021.
+Última atualização: 1 de dez. 2021.
 
 #### Resumo
 
@@ -44,18 +44,18 @@ Rio de Janeiro, RJ / Brasil
 #### Educação
 
 - 2021-2023: Mestrado no Programa de Pós-Graduação em Estudos da Linguagem da Pontifícia Universidade Católica do Rio de Janeiro (PPGEL/PUC-Rio)
-    - [Aprovação em 1º lugar](https://tronco.ga/media/APROVADOS_NA_3A_ETAPA_-_MESTRADO.pdf)
+    - [Aprovação em 1º lugar](https://tronco.gq/media/APROVADOS_NA_3A_ETAPA_-_MESTRADO.pdf)
     - Bolsista do CNPq (Conselho Nacional de Desenvolvimento Científico e Tecnológico)
 - 2017-2020: Bacharelado em Letras Português/Inglês e respectivas literaturas pela Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)
     - Bolsista integral pelo ProUni (Programa Universidade para Todos)
 - 2020: Curso "Formação em processamento de corpos, PLN, anotação, e estatística", parte do projeto [BILLIG](https://billig.fcsh.unl.pt/), ministrado pela profa. Diana Santos da Universidade de Oslo
-    - Carga horária: [20 horas](https://tronco.ga/media/certificadoElvisBILLIG.pdf)
+    - Carga horária: [20 horas](https://tronco.gq/media/certificadoElvisBILLIG.pdf)
 - 2019: Disciplina "Introdução à Interação Humano-Computador", do Departamento de Informática da PUC-Rio
     - Créditos: 4
 - 2019: Curso "Inteligência Artificial II (IA II)", do Laboratório de Inteligência Computacional Aplicada, concluído pela CCE/PUC-Rio
-    - Carga horária: [45 horas](https://tronco.ga/media/CCE_IA2.pdf)
+    - Carga horária: [45 horas](https://tronco.gq/media/CCE_IA2.pdf)
 - 2019: Curso "Inteligência Artificial I (IA I)", do Laboratório de Inteligência Computacional Aplicada, concluído pela CCE/PUC-Rio
-    - Carga horária: [45 horas](https://tronco.ga/media/CCE_IA1.pdf)
+    - Carga horária: [45 horas](https://tronco.gq/media/CCE_IA1.pdf)
 - 2014-2016: Ensino médio no Colégio de São Bento do Rio de Janeiro
     - Bolsista integral pelo [ISMART - Instituto Social para Motivar, Apoiar e Reconhecer Talentos](https://ismart.org.br)
 
@@ -69,7 +69,9 @@ Rio de Janeiro, RJ / Brasil
 
 #### Publicações
 
-- DE SOUZA, Elvis; FREITAS, Cláudia. ET: A Workstation for Querying, Editing and Evaluating Annotated Corpora. **Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing: System Demonstrations**. EMNLP 2021, p. 35-41, Online and in Punta Cana, Dominican Republic, November, 2021. Disponível em: [https://aclanthology.org/2021.emnlp-demo.5/](https://aclanthology.org/2021.emnlp-demo.5/). Acesso em: 9 nov. 2021.
+- SOUZA, Elvis de; SILVEIRA, Aline; CAVALCANTI, Tatiana; CASTRO, Maria Clara; FREITAS, Cláudia. PetroGold – Corpus padrão ouro para o domínio do petróleo. In: SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 13., 2021, Evento Online. **Anais [...]**. Porto Alegre: Sociedade Brasileira de Computação, 2021. p. 29-38. DOI: https://doi.org/10.5753/stil.2021.17781.
+
+- DE SOUZA, Elvis; FREITAS, Cláudia. ET: A Workstation for Querying, Editing and Evaluating Annotated Corpora. **Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing: System Demonstrations** (EMNLP 2021), p. 35-41, Online and in Punta Cana, Dominican Republic, November, 2021. Association for Computational Linguistics. Disponível em: [https://aclanthology.org/2021.emnlp-demo.5/](https://aclanthology.org/2021.emnlp-demo.5/). Acesso em: 9 nov. 2021.
 
 - CAVALCANTI, Tatiana; SILVEIRA, Aline; DE SOUZA, Elvis; FREITAS, Cláudia. Os limites da palavra e da sentença no processamento automático de textos. **Revista Brasileira de Iniciação Científica**, \[S. l.\], v. 8, p. e021033, 2021. Disponível em: [https://periodicoscientificos.itp.ifsp.edu.br/index.php/rbic/article/view/348](https://periodicoscientificos.itp.ifsp.edu.br/index.php/rbic/article/view/348). Acesso em: 15 out. 2021.
 
@@ -91,6 +93,6 @@ Rio de Janeiro, RJ / Brasil
 
 - DE SOUZA, Elvis; ROCHA, Luisa. "Relatório sobre o impacto da correção de part-of-speech no corpus Bosque". Departamento de Letras, PUC-Rio. 2018. Disponível em: [https://github.com/alvelvis/Experimento-Revisao-de-POS](https://github.com/alvelvis/Experimento-Revisao-de-POS).
 
-- DE SOUZA, Elvis. "Sobre a utilização do UDPipe - Parser do Universal Dependencies". Departamento de Letras, PUC-Rio. 2018. Diponível em: [https://docs.google.com/document/d/1Ula5j4qm0GA58uL_eataCLyePJlhw9m-iqXNLHzlEQw/edit](https://docs.google.com/document/d/1Ula5j4qm0GA58uL_eataCLyePJlhw9m-iqXNLHzlEQw/edit).
+- DE SOUZA, Elvis. "Sobre a utilização do UDPipe - Parser do Universal Dependencies". Departamento de Letras, PUC-Rio. 2018. Disponível em: [https://docs.google.com/document/d/1Ula5j4qm0GA58uL_eataCLyePJlhw9m-iqXNLHzlEQw/edit](https://docs.google.com/document/d/1Ula5j4qm0GA58uL_eataCLyePJlhw9m-iqXNLHzlEQw/edit).
 
 
