@@ -7,6 +7,13 @@ title: Sobre mim
 
 Onde estou: 🐦 [Twitter](https://twitter.com/alveselvis2) / 👨‍💻 [GitHub](http://github.com/alvelvis) / 🧪 [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2710924H9)
 
+* [Resumo](#elvis-de-souza)
+* [Experiência](#experiência)
+* [Educação](#educação)
+* [Habilidades](#habilidades)
+* [Portfólio](#portfólio)
+* [Publicações](#publicações)
+
 ## Elvis de Souza
 
 Rio de Janeiro, RJ / Brasil
@@ -69,7 +76,7 @@ Rio de Janeiro, RJ / Brasil
 
 #### Publicações
 
-- SOUZA, Elvis de; SILVEIRA, Aline; CAVALCANTI, Tatiana; CASTRO, Maria Clara; FREITAS, Cláudia. PetroGold – Corpus padrão ouro para o domínio do petróleo. In: SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 13., 2021, Evento Online. **Anais [...]**. Porto Alegre: Sociedade Brasileira de Computação, 2021. p. 29-38. DOI: https://doi.org/10.5753/stil.2021.17781.
+- SOUZA, Elvis de; SILVEIRA, Aline; CAVALCANTI, Tatiana; CASTRO, Maria Clara; FREITAS, Cláudia. PetroGold – Corpus padrão ouro para o domínio do petróleo. In: SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 13., 2021, Evento Online. **Anais [...]**. Porto Alegre: Sociedade Brasileira de Computação, 2021. p. 29-38. DOI: [https://doi.org/10.5753/stil.2021.17781](https://doi.org/10.5753/stil.2021.17781).
 
 - DE SOUZA, Elvis; FREITAS, Cláudia. ET: A Workstation for Querying, Editing and Evaluating Annotated Corpora. **Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing: System Demonstrations** (EMNLP 2021), p. 35-41, Online and in Punta Cana, Dominican Republic, November, 2021. Association for Computational Linguistics. Disponível em: [https://aclanthology.org/2021.emnlp-demo.5/](https://aclanthology.org/2021.emnlp-demo.5/). Acesso em: 9 nov. 2021.
 
