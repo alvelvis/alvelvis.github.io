@@ -44,18 +44,18 @@ Rio de Janeiro, RJ / Brasil
 #### Educação
 
 - 2021-2023: Mestrado no Programa de Pós-Graduação em Estudos da Linguagem da Pontifícia Universidade Católica do Rio de Janeiro (PPGEL/PUC-Rio)
-    - [Aprovação em 1º lugar](https://tronco.gq/media/APROVADOS_NA_3A_ETAPA_-_MESTRADO.pdf)
+    - [Aprovação em 1º lugar](https://tronco.souelvis.dev/media/APROVADOS_NA_3A_ETAPA_-_MESTRADO.pdf)
     - Bolsista do CNPq (Conselho Nacional de Desenvolvimento Científico e Tecnológico)
 - 2017-2020: Bacharelado em Letras Português/Inglês e respectivas literaturas pela Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)
     - Bolsista integral pelo ProUni (Programa Universidade para Todos)
 - 2020: Curso "Formação em processamento de corpos, PLN, anotação, e estatística", parte do projeto [BILLIG](https://billig.fcsh.unl.pt/), ministrado pela profa. Diana Santos da Universidade de Oslo
-    - Carga horária: [20 horas](https://tronco.gq/media/certificadoElvisBILLIG.pdf)
+    - Carga horária: [20 horas](https://tronco.souelvis.dev/media/certificadoElvisBILLIG.pdf)
 - 2019: Disciplina "Introdução à Interação Humano-Computador", do Departamento de Informática da PUC-Rio
     - Créditos: 4
 - 2019: Curso "Inteligência Artificial II (IA II)", do Laboratório de Inteligência Computacional Aplicada, concluído pela CCE/PUC-Rio
-    - Carga horária: [45 horas](https://tronco.gq/media/CCE_IA2.pdf)
+    - Carga horária: [45 horas](https://tronco.souelvis.dev/media/CCE_IA2.pdf)
 - 2019: Curso "Inteligência Artificial I (IA I)", do Laboratório de Inteligência Computacional Aplicada, concluído pela CCE/PUC-Rio
-    - Carga horária: [45 horas](https://tronco.gq/media/CCE_IA1.pdf)
+    - Carga horária: [45 horas](https://tronco.souelvis.dev/media/CCE_IA1.pdf)
 - 2014-2016: Ensino médio no Colégio de São Bento do Rio de Janeiro
     - Bolsista integral pelo [ISMART - Instituto Social para Motivar, Apoiar e Reconhecer Talentos](https://ismart.org.br)
 

@@ -41,15 +41,15 @@ specificskills: "
 portfolio: "
 \n- Tronco
 \n\t- Aplicativo de bloco de notas e tarefas multiplataforma
-\n\t- Site: [tronco.gq](https://tronco.gq)
+\n\t- Site: [tronco.souelvis.dev](https://tronco.souelvis.dev)
 \n\t- Código-fonte: [github.com/alvelvis/Tronco](https://github.com/alvelvis/Tronco)
 \n- Interrogatório
 \n\t- Ambiente on-line de busca e revisão de corpora anotados
-\n\t- Site: [interrogatorio.comcorhd.ml](http://interrogatorio.comcorhd.ml)
+\n\t- Site: [interrogatorio.souelvis.dev](http://interrogatorio.souelvis.dev)
 \n\t- Código-fonte: [github.com/alvelvis/Interrogat-rio](https://github.com/alvelvis/Interrogat-rio)
 \n- AraSAS
 \n\t- Anotador semântico de textos em árabe (versão árabe do [USAS - UCREL Semantic Analysis System](http://ucrel.lancs.ac.uk/usas/))
-\n\t- Site: [arasas.herokuapp.com](http://arasas.herokuapp.com/)
+\n\t- Site: [arasas.souelvis.dev](http://arasas.souelvis.dev/)
 \n\t- Código-fonte: privado. O back-end foi desenvolvido em Python utilizando o framework Flask.
 "
     
