@@ -5,16 +5,16 @@ title: Sobre mim
 
 <!--{{site.authordesc}} <a href='{{site.english | relative_url}}'>Ensino inglês</a> e <a href='{{site.freela | relative_url}}'>trabalho como desenvolvedor freelancer</a>.-->
 
-**Onde estou:**<br>[Twitter](https://twitter.com/alveselvis2) 🐦 / [GitHub](http://github.com/alvelvis) 👨‍💻 / [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2710924H9) 🧪<br><br>**Seções:**<br>[Resumo](#elvis-de-souza) [Experiência](#experiência) [Educação](#educação) [Habilidades](#habilidades) [Portfólio](#portfólio) [Publicações](#publicações)
+**Onde estou:**<br>[Twitter](https://twitter.com/alvelviss) 🐦 / [GitHub](http://github.com/alvelvis) 👨‍💻 / [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2710924H9) 🧪<br><br>**Seções:**<br>[Resumo](#elvis-de-souza) [Experiência](#experiência) [Educação](#educação) [Habilidades](#habilidades) [Portfólio](#portfólio) [Publicações](#publicações)
 
 ## Elvis de Souza
 
 Rio de Janeiro, RJ / Brasil
 
 - ✉️ - [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)
-- 🏠 - [alvelvis.github.io](https://alvelvis.github.io)
+- 🏠 - [souelvis.dev](https://souelvis.dev)
 
-Última atualização: 1 de dez. 2021.
+Última atualização: 26 de abr. 2022.
 
 #### Resumo
 
@@ -24,7 +24,7 @@ Rio de Janeiro, RJ / Brasil
 
 - 2019-hoje: Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio)
     - Bolsista de mestrado (2021-2023) e de iniciação científica (2019-2021)
-    - Membro do projeto [BIG Oil - Ciência de Dados para Óleo e Gás](http://petroles.ica.ele.puc-rio.br) na equipe de processamento de linguagem natural (PLN). O projeto é realizado no Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio) e é financiado pela Agência Nacional do Petróleo (ANP). O objetivo da equipe de PLN é desenvolver o primeiro corpus brasileiro de textos acadêmicos da área do óleo e gás, permitindo trabalhos de extração automática de informação em textos semelhantes.
+    - Membro do projeto [PETROLÊS](http://petroles.puc-rio.br) na equipe de processamento de linguagem natural (PLN). O projeto é realizado no Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio) e é financiado pela Agência Nacional do Petróleo (ANP). O objetivo da equipe de PLN é desenvolver o primeiro corpus brasileiro de textos acadêmicos da área do óleo e gás, permitindo trabalhos de extração automática de informação em textos semelhantes.
 - 2020: University Center for Computer Corpus Research on Language (UCREL/Lancaster University)
     - Assistente de pesquisa
     - Desenvolvimento de sistema de anotação semântica de textos em árabe utilizando Python. O programa é uma versão em árabe do [USAS (UCREL Semantic Analysis System)](http://ucrel.lancs.ac.uk/usas/). O projeto se desenvolveu em parceria com as Zayed University e New York Abu Dhabi University.
@@ -68,6 +68,10 @@ Rio de Janeiro, RJ / Brasil
 {{site.portfolio}}
 
 #### Publicações
+
+- DE SOUZA, Elvis; FREITAS, Cláudia. Still on arguments and adjuncts: the status of the indirect object and the adverbial adjunct relations in Universal Dependencies for Portuguese. Proceedings of the Universal Dependencies Brazilian Festival (UDFest-BR), 2022.
+
+- DE SOUZA, Elvis; FREITAS, Cláudia. Polishing the gold – how much revision do we need in treebanks?. Proceedings of the Universal Dependencies Brazilian Festival (UDFest-BR), 2022.
 
 - SOUZA, Elvis de; SILVEIRA, Aline; CAVALCANTI, Tatiana; CASTRO, Maria Clara; FREITAS, Cláudia. PetroGold – Corpus padrão ouro para o domínio do petróleo. In: SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 13., 2021, Evento Online. **Anais [...]**. Porto Alegre: Sociedade Brasileira de Computação, 2021. p. 29-38. DOI: [https://doi.org/10.5753/stil.2021.17781](https://doi.org/10.5753/stil.2021.17781).
 
