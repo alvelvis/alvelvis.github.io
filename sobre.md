@@ -14,7 +14,7 @@ Rio de Janeiro, RJ / Brasil
 - ✉️ - [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)
 - 🏠 - [souelvis.dev](https://souelvis.dev)
 
-Última atualização: 26 de abr. 2022.
+Última atualização: 11 de jun. 2022.
 
 #### Resumo
 
@@ -24,7 +24,7 @@ Rio de Janeiro, RJ / Brasil
 
 - 2019-hoje: Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio)
     - Bolsista de mestrado (2021-2023) e de iniciação científica (2019-2021)
-    - Membro do projeto [PETROLÊS](http://petroles.puc-rio.br) na equipe de processamento de linguagem natural (PLN). O projeto é realizado no Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio) e é financiado pela Agência Nacional do Petróleo (ANP). O objetivo da equipe de PLN é desenvolver o primeiro corpus brasileiro de textos acadêmicos da área do óleo e gás, permitindo trabalhos de extração automática de informação em textos semelhantes.
+    - Membro do projeto [Petrolês](http://petroles.puc-rio.ai) na equipe de processamento de linguagem natural (PLN). O projeto é realizado no Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio) e é financiado pela Agência Nacional do Petróleo (ANP). O objetivo da equipe de PLN é desenvolver o primeiro corpus brasileiro de textos acadêmicos da área do óleo e gás, permitindo trabalhos de extração automática de informação em textos semelhantes.
 - 2020: University Center for Computer Corpus Research on Language (UCREL/Lancaster University)
     - Assistente de pesquisa
     - Desenvolvimento de sistema de anotação semântica de textos em árabe utilizando Python. O programa é uma versão em árabe do [USAS (UCREL Semantic Analysis System)](http://ucrel.lancs.ac.uk/usas/). O projeto se desenvolveu em parceria com as Zayed University e New York Abu Dhabi University.
@@ -48,6 +48,8 @@ Rio de Janeiro, RJ / Brasil
     - Bolsista do CNPq (Conselho Nacional de Desenvolvimento Científico e Tecnológico)
 - 2017-2020: Bacharelado em Letras Português/Inglês e respectivas literaturas pela Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)
     - Bolsista integral pelo ProUni (Programa Universidade para Todos)
+- 2021: Curso de Extensão Universitária "Python para Processamento de Linguagem Natural", concluído pelo Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo (ICMC/USP)
+    - Carga horária: [20 horas](https://tronco.souelvis.dev/media/certificado-python-nlp-usp.pdf)
 - 2020: Curso "Formação em processamento de corpos, PLN, anotação, e estatística", parte do projeto [BILLIG](https://billig.fcsh.unl.pt/), ministrado pela profa. Diana Santos da Universidade de Oslo
     - Carga horária: [20 horas](https://tronco.souelvis.dev/media/certificadoElvisBILLIG.pdf)
 - 2019: Disciplina "Introdução à Interação Humano-Computador", do Departamento de Informática da PUC-Rio
@@ -69,9 +71,9 @@ Rio de Janeiro, RJ / Brasil
 
 #### Publicações
 
-- DE SOUZA, Elvis; FREITAS, Cláudia. Still on arguments and adjuncts: the status of the indirect object and the adverbial adjunct relations in Universal Dependencies for Portuguese. Proceedings of the Universal Dependencies Brazilian Festival (UDFest-BR), 2022.
+- DE SOUZA, Elvis; FREITAS, Cláudia. Still on arguments and adjuncts: the status of the indirect object and the adverbial adjunct relations in Universal Dependencies for Portuguese. In: **Procedings of the Universal Dependencies Brazilian Festival**, p. 1–10, Fortaleza, Brazil. Association for Computational Linguistics, 2022. Disponível em: [https://aclanthology.org/2022.udfestbr-1.5/](https://aclanthology.org/2022.udfestbr-1.5/). Acesso em: 11 de jun. 2021.
 
-- DE SOUZA, Elvis; FREITAS, Cláudia. Polishing the gold – how much revision do we need in treebanks?. Proceedings of the Universal Dependencies Brazilian Festival (UDFest-BR), 2022.
+- DE SOUZA, Elvis; FREITAS, Cláudia. Polishing the gold – how much revision do we need in treebanks?. In: **Procedings of the Universal Dependencies Brazilian Festival**, p. 1–11, Fortaleza, Brazil. Association for Computational Linguistics, 2022. Disponível em: [https://aclanthology.org/2022.udfestbr-1.2/](https://aclanthology.org/2022.udfestbr-1.2/). Acesso em: 11 de jun. 2021.
 
 - SOUZA, Elvis de; SILVEIRA, Aline; CAVALCANTI, Tatiana; CASTRO, Maria Clara; FREITAS, Cláudia. PetroGold – Corpus padrão ouro para o domínio do petróleo. In: SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 13., 2021, Evento Online. **Anais [...]**. Porto Alegre: Sociedade Brasileira de Computação, 2021. p. 29-38. DOI: [https://doi.org/10.5753/stil.2021.17781](https://doi.org/10.5753/stil.2021.17781).
 
