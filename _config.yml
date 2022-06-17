@@ -20,9 +20,9 @@ freela: 'freela'
 
 picture: '/assets/images/profile.png'
 
-authordesc: "Escrevo sobre linguagem, robôs, e sobre como robôs aprendem linguagem."
-authordescen: "I write about language, robots, and how robots learn language."
-authordesc2: Pós-graduando em Linguística Computacional no PPGEL/PUC-Rio. Entendo um pouco de linguagem, de robôs, e de como robôs aprendem linguagem.
+authordesc: "Escrevo sobre humanos, robôs, linguagem, e sobre como humanos e robôs aprendem linguagem."
+authordescen: "I write about humans, robots, language, and how humans and robots learn language."
+authordesc2: Pós-graduando em Linguística Computacional.
 profdesc: Mestrando do Programa de Pós-Graduação em Estudos da Linguagem da Pontifícia Universidade Católica do Rio de Janeiro (PPGEL/PUC-Rio) e bacharel em Letras (Português/Inglês) pela PUC-Rio. Membro do grupo de pesquisa em Linguística Computacional, Corpus e Humanidades Digitais [(ComCorHd/PUC-Rio)](http://comcorhd.letras.puc-rio.br) desde 2018.
 
 generalskills: "
@@ -39,18 +39,25 @@ specificskills: "
 #\n- Usuário experiente e incansável das ferramentas de busca on-line
 
 portfolio: "
+\n- AraSAS
+\n\t- Anotador semântico de textos em árabe (versão árabe do [USAS - UCREL Semantic Analysis System](http://ucrel.lancs.ac.uk/usas/))
+\n\t- Site: [arasas.herokuapp.com](http://arasas.herokuapp.com/)
+\n\t- Código-fonte: [github.com/UCREL/AraSAS](https://github.com/UCREL/AraSAS). O back-end foi desenvolvido em Python e o aplicativo utiliza o framework Flask.
+\n- UD Validate
+\n\t- Interface web para validação de frases anotadas no formato [Universal Dependencies](https://universaldependencies.org/)
+\n\t- Site: [ud-validate.herokuapp.com](https://ud-validate.herokuapp.com/)
+\n\t- Código-fonte: [github.com/alvelvis/ud-validate](https://github.com/alvelvis/ud-validate)
+\n- Interrogatório
+\n\t- Ambiente on-line de busca e revisão de corpora anotados no formato [Universal Dependencies](https://universaldependencies.org/)
+\n\t- Site: [interrogatorio.souelvis.dev](http://interrogatorio.souelvis.dev)
+\n\t- Código-fonte: [github.com/alvelvis/Interrogat-rio](https://github.com/alvelvis/Interrogat-rio)
+\n- Petrolês
+\n\t- Recursos do projeto Petrolês, um repositório de artefatos de Processamento de Linguagem Natural especializados no domínio de petróleo em Português
+\n\t- Site: [petroles.puc-rio.ai](https://petroles.puc-rio.ai/)
 \n- Tronco
 \n\t- Aplicativo de bloco de notas e tarefas multiplataforma
 \n\t- Site: [tronco.souelvis.dev](https://tronco.souelvis.dev)
 \n\t- Código-fonte: [github.com/alvelvis/Tronco](https://github.com/alvelvis/Tronco)
-\n- Interrogatório
-\n\t- Ambiente on-line de busca e revisão de corpora anotados
-\n\t- Site: [interrogatorio.souelvis.dev](http://interrogatorio.souelvis.dev)
-\n\t- Código-fonte: [github.com/alvelvis/Interrogat-rio](https://github.com/alvelvis/Interrogat-rio)
-\n- AraSAS
-\n\t- Anotador semântico de textos em árabe (versão árabe do [USAS - UCREL Semantic Analysis System](http://ucrel.lancs.ac.uk/usas/))
-\n\t- Site: [arasas.herokuapp.com](http://arasas.herokuapp.com/)
-\n\t- Código-fonte: privado. O back-end foi desenvolvido em Python utilizando o framework Flask.
 "
     
 # Details for the RSS feed generator

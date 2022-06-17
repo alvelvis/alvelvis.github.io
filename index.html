@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Início
-cover: false
+cover: https://i.ytimg.com/vi/jt8W69wwmy0/maxresdefault.jpg
 ---
 
 <header class="main-header {% if page.cover %}" style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
@@ -15,12 +15,12 @@ cover: false
         <a style="margin-right:5px" alt="Translate this page" onclick="translatePage('en')" id="translateBtn" class="subscribe-button" href="#">🇬🇧 English</a>
     </nav>
     <div class="vertical">
-        <div class="main-header-content inner" style="margin-top:10%">
+        <div class="main-header-content inner" style="margin-top:0%">
             <figure class="author-image author-image-home">
                 <a class="img" style="background-image: url({{site.picture | relative_url}})">
                 <span class="hidden">{{site.author}}</span></a>
             </figure>
-            <h1 class="page-title">Oi, sou o Elvis 👋</h1>
+            <h1 class="page-title">Oi, sou o Elvis</h1>
             <h2 class="page-description">
                 {% if site.description %} {{ site.description }} {% endif %}
                 <br><br>

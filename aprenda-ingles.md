@@ -31,23 +31,6 @@ Tem inglês para todo mundo:
 - ✈️ Pessoas com objetivos específicos, como viajar de férias ou a trabalho para um dos 50 países onde o inglês é língua oficial
 - 💼 Profissionais almejando aprimorar suas habilidades linguísticas em geral para se destacarem no mercado de trabalho
 
-## Investimento
-
-Você escolhe como deseja investir no seu inglês:
-
-- Mensal: 1 hora por semana, sempre no mesmo dia - R$160,00/mês
-- Mensal: 2 horas por semana, sempre nos mesmos dias - R$280,00/mês
-- Mensal: 3 horas por semana, sempre nos mesmos dias - R$400,00/mês
-- Monte seu próprio plano de estudos - R$46,00/hora
-- Observação: o primeiro encontro dispensa investimento prévio. ✔️
-
-### Atenção
-
-- Não serão aceitos alunos menores de 14 anos de idade.
-- Os valores dos planos mensais têm embutido descontos proporcionais ao número de horas. Como contrapartida, os alunos terão de pagar a mensalidade integralmente em dia previamente combinado do mês, mesmo em caso de ausência do aluno em alguma das aulas. Nessa situação, a aula perdida será reposta assim que houver disponibilidade de aluno e professor.
-- O primeiro encontro será direcionado a esclarecimento de dúvidas e reconhecimento dos objetivos do aluno, dispensando investimento prévio.
-- O objetivo deste curso é aprimorar as habilidades do aluno e torná-lo mais confiante para os desafios que o esperam. Não serão emitidos certificados de proficiência e tampouco podemos preparar o aluno para provas específicas de certificação.
-
 ### Contato
 
 - E-mail: [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)

@@ -4,7 +4,7 @@ title:  "Como vim parar na linguística computacional"
 date:   2020-12-12 03:06:00
 categories: Pessoal
 lang: pt
-cover: https://www.veracode.com/sites/default/files/styles/webp_large/public/developer-guide-blog-2.webp?itok=FFkU3ejZ
+cover: https://seodelpuerto.cl/wp-content/uploads/2020/11/shutterstock_1306244494.jpg
 ---
 
 Há quatro anos eu decidi que queria ensinar crianças a se comunicarem eficientemente e a compreenderem sua língua materna. Há três, no entanto, estou na verdade é ensinando robôs a falar português.
