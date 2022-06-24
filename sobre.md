@@ -14,7 +14,7 @@ Rio de Janeiro, RJ / Brasil
 - ✉️ - [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)
 - 🏠 - [souelvis.dev](https://souelvis.dev)
 
-Última atualização: 11 de jun. 2022.
+Última atualização: 24 de jun. 2022.
 
 #### Resumo
 
@@ -71,9 +71,11 @@ Rio de Janeiro, RJ / Brasil
 
 #### Publicações
 
-- DE SOUZA, Elvis; FREITAS, Cláudia. Still on arguments and adjuncts: the status of the indirect object and the adverbial adjunct relations in Universal Dependencies for Portuguese. In: **Procedings of the Universal Dependencies Brazilian Festival**, p. 1–10, Fortaleza, Brazil. Association for Computational Linguistics, 2022. Disponível em: [https://aclanthology.org/2022.udfestbr-1.5/](https://aclanthology.org/2022.udfestbr-1.5/). Acesso em: 11 de jun. 2021.
+- EL-HAJ, Mahmoud; RAYSON, Paul; DE SOUZA, Elvis; KHALLAF, Nouran; HABASH, Nizar. AraSAS: The Open Source Arabic Semantic Tagger. In: **Proceedings of the 5th Workshop on Open-Source Arabic Corpora and Processing Tools with Shared Tasks on Qur'an QA and Fine-Grained Hate Speech Detection**, p. 23-31, Marseille, France. European Language Resources Association (ELRA), 2022. Disponível em: [http://www.lrec-conf.org/proceedings/lrec2022/workshops/OSACT/pdf/2022.osact-1.3.pdf](http://www.lrec-conf.org/proceedings/lrec2022/workshops/OSACT/pdf/2022.osact-1.3.pdf). Acesso em: 24 de jun. 2022.
 
-- DE SOUZA, Elvis; FREITAS, Cláudia. Polishing the gold – how much revision do we need in treebanks?. In: **Procedings of the Universal Dependencies Brazilian Festival**, p. 1–11, Fortaleza, Brazil. Association for Computational Linguistics, 2022. Disponível em: [https://aclanthology.org/2022.udfestbr-1.2/](https://aclanthology.org/2022.udfestbr-1.2/). Acesso em: 11 de jun. 2021.
+- DE SOUZA, Elvis; FREITAS, Cláudia. Still on arguments and adjuncts: the status of the indirect object and the adverbial adjunct relations in Universal Dependencies for Portuguese. In: **Procedings of the Universal Dependencies Brazilian Festival**, p. 1–10, Fortaleza, Brazil. Association for Computational Linguistics, 2022. Disponível em: [https://aclanthology.org/2022.udfestbr-1.5/](https://aclanthology.org/2022.udfestbr-1.5/). Acesso em: 11 de jun. 2022.
+
+- DE SOUZA, Elvis; FREITAS, Cláudia. Polishing the gold – how much revision do we need in treebanks?. In: **Procedings of the Universal Dependencies Brazilian Festival**, p. 1–11, Fortaleza, Brazil. Association for Computational Linguistics, 2022. Disponível em: [https://aclanthology.org/2022.udfestbr-1.2/](https://aclanthology.org/2022.udfestbr-1.2/). Acesso em: 11 de jun. 2022.
 
 - SOUZA, Elvis de; SILVEIRA, Aline; CAVALCANTI, Tatiana; CASTRO, Maria Clara; FREITAS, Cláudia. PetroGold – Corpus padrão ouro para o domínio do petróleo. In: SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 13., 2021, Evento Online. **Anais [...]**. Porto Alegre: Sociedade Brasileira de Computação, 2021. p. 29-38. DOI: [https://doi.org/10.5753/stil.2021.17781](https://doi.org/10.5753/stil.2021.17781).
 
