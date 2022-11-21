@@ -14,7 +14,7 @@ Rio de Janeiro, RJ / Brasil
 - ✉️ - [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)
 - 🏠 - [souelvis.dev](https://souelvis.dev)
 
-Última atualização: 24 de jun. 2022.
+Última atualização: 21 de nov. 2022.
 
 #### Resumo
 
@@ -46,6 +46,7 @@ Rio de Janeiro, RJ / Brasil
 - 2021-2023: Mestrado no Programa de Pós-Graduação em Estudos da Linguagem da Pontifícia Universidade Católica do Rio de Janeiro (PPGEL/PUC-Rio)
     - [Aprovação em 1º lugar](https://tronco.souelvis.dev/media/APROVADOS_NA_3A_ETAPA_-_MESTRADO.pdf)
     - Bolsista do CNPq (Conselho Nacional de Desenvolvimento Científico e Tecnológico)
+    - Bolsista FAPERJ (Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro) -- Mestrado Nota 10
 - 2017-2020: Bacharelado em Letras Português/Inglês e respectivas literaturas pela Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)
     - Bolsista integral pelo ProUni (Programa Universidade para Todos)
 - 2021: Curso de Extensão Universitária "Python para Processamento de Linguagem Natural", concluído pelo Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo (ICMC/USP)
@@ -71,13 +72,15 @@ Rio de Janeiro, RJ / Brasil
 
 #### Publicações
 
+- DE SOUZA, Elvis; SILVEIRA, Aline; CAVALCANTI, Tatiana; CASTRO, Maria Clara; FREITAS, Cláudia. Documentação da anotação morfossintática do PetroGold. 2021. Disponível em: [https://www.researchgate.net/publication/365597977_Documentacao_da_anotacao_morfossintatica_do_PetroGold](https://www.researchgate.net/publication/365597977_Documentacao_da_anotacao_morfossintatica_do_PetroGold). Acesso em: 21 de nov. 2022.
+
 - EL-HAJ, Mahmoud; RAYSON, Paul; DE SOUZA, Elvis; KHALLAF, Nouran; HABASH, Nizar. AraSAS: The Open Source Arabic Semantic Tagger. In: **Proceedings of the 5th Workshop on Open-Source Arabic Corpora and Processing Tools with Shared Tasks on Qur'an QA and Fine-Grained Hate Speech Detection**, p. 23-31, Marseille, France. European Language Resources Association (ELRA), 2022. Disponível em: [http://www.lrec-conf.org/proceedings/lrec2022/workshops/OSACT/pdf/2022.osact-1.3.pdf](http://www.lrec-conf.org/proceedings/lrec2022/workshops/OSACT/pdf/2022.osact-1.3.pdf). Acesso em: 24 de jun. 2022.
 
 - DE SOUZA, Elvis; FREITAS, Cláudia. Still on arguments and adjuncts: the status of the indirect object and the adverbial adjunct relations in Universal Dependencies for Portuguese. In: **Procedings of the Universal Dependencies Brazilian Festival**, p. 1–10, Fortaleza, Brazil. Association for Computational Linguistics, 2022. Disponível em: [https://aclanthology.org/2022.udfestbr-1.5/](https://aclanthology.org/2022.udfestbr-1.5/). Acesso em: 11 de jun. 2022.
 
 - DE SOUZA, Elvis; FREITAS, Cláudia. Polishing the gold – how much revision do we need in treebanks?. In: **Procedings of the Universal Dependencies Brazilian Festival**, p. 1–11, Fortaleza, Brazil. Association for Computational Linguistics, 2022. Disponível em: [https://aclanthology.org/2022.udfestbr-1.2/](https://aclanthology.org/2022.udfestbr-1.2/). Acesso em: 11 de jun. 2022.
 
-- SOUZA, Elvis de; SILVEIRA, Aline; CAVALCANTI, Tatiana; CASTRO, Maria Clara; FREITAS, Cláudia. PetroGold – Corpus padrão ouro para o domínio do petróleo. In: SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 13., 2021, Evento Online. **Anais [...]**. Porto Alegre: Sociedade Brasileira de Computação, 2021. p. 29-38. DOI: [https://doi.org/10.5753/stil.2021.17781](https://doi.org/10.5753/stil.2021.17781).
+- DE SOUZA, Elvis; SILVEIRA, Aline; CAVALCANTI, Tatiana; CASTRO, Maria Clara; FREITAS, Cláudia. PetroGold – Corpus padrão ouro para o domínio do petróleo. In: SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 13., 2021, Evento Online. **Anais [...]**. Porto Alegre: Sociedade Brasileira de Computação, 2021. p. 29-38. DOI: [https://doi.org/10.5753/stil.2021.17781](https://doi.org/10.5753/stil.2021.17781).
 
 - DE SOUZA, Elvis; FREITAS, Cláudia. ET: A Workstation for Querying, Editing and Evaluating Annotated Corpora. **Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing: System Demonstrations** (EMNLP 2021), p. 35-41, Online and in Punta Cana, Dominican Republic, November, 2021. Association for Computational Linguistics. Disponível em: [https://aclanthology.org/2021.emnlp-demo.5/](https://aclanthology.org/2021.emnlp-demo.5/). Acesso em: 9 nov. 2021.
 

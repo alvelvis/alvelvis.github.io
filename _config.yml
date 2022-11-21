@@ -41,11 +41,11 @@ specificskills: "
 portfolio: "
 \n- AraSAS
 \n\t- Anotador semântico de textos em árabe (versão árabe do [USAS - UCREL Semantic Analysis System](http://ucrel.lancs.ac.uk/usas/))
-\n\t- Site: [arasas.herokuapp.com](http://arasas.herokuapp.com/)
+\n\t- Site: [arasas.souelvis.dev](http://arasas.souelvis.dev/)
 \n\t- Código-fonte: [github.com/UCREL/AraSAS](https://github.com/UCREL/AraSAS). O back-end foi desenvolvido em Python e o aplicativo utiliza o framework Flask.
 \n- UD Validate
 \n\t- Interface web para validação de frases anotadas no formato [Universal Dependencies](https://universaldependencies.org/)
-\n\t- Site: [ud-validate.herokuapp.com](https://ud-validate.herokuapp.com/)
+\n\t- Site: [ud-validate.souelvis.dev](https://ud-validate.souelvis.dev/)
 \n\t- Código-fonte: [github.com/alvelvis/ud-validate](https://github.com/alvelvis/ud-validate)
 \n- Interrogatório
 \n\t- Ambiente on-line de busca e revisão de corpora anotados no formato [Universal Dependencies](https://universaldependencies.org/)
