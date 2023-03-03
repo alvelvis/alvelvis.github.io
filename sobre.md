@@ -14,7 +14,7 @@ Rio de Janeiro, RJ / Brasil
 - ✉️ - [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)
 - 🏠 - [souelvis.dev](https://souelvis.dev)
 
-Última atualização: 21 de nov. 2022.
+Última atualização: 3 de mar. 2023.
 
 #### Resumo
 
@@ -71,6 +71,8 @@ Rio de Janeiro, RJ / Brasil
 {{site.portfolio}}
 
 #### Publicações
+
+- KHALLAF, Nouran; DE SOUZA, Elvis; EL-HAJ, Mahmoud; RAYSON, Paul. Semantic domains across topics, genders and languages. In: **Bilingual Writers and Corpus Analysis**. Routledge, 2022. p. 96-120.
 
 - DE SOUZA, Elvis; SILVEIRA, Aline; CAVALCANTI, Tatiana; CASTRO, Maria Clara; FREITAS, Cláudia. Documentação da anotação morfossintática do PetroGold. 2021. Disponível em: [https://www.researchgate.net/publication/365597977_Documentacao_da_anotacao_morfossintatica_do_PetroGold](https://www.researchgate.net/publication/365597977_Documentacao_da_anotacao_morfossintatica_do_PetroGold). Acesso em: 21 de nov. 2022.
 
