@@ -14,7 +14,7 @@ Rio de Janeiro, RJ / Brasil
 - ✉️ - [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)
 - 🏠 - [souelvis.dev](https://souelvis.dev)
 
-Última atualização: 3 de mar. 2023.
+Última atualização: 21 de abr. 2023.
 
 #### Resumo
 
@@ -23,8 +23,9 @@ Rio de Janeiro, RJ / Brasil
 #### Experiência
 
 - 2019-hoje: Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio)
+    - Desenvolver de software júnior (2023-atual)
     - Bolsista de mestrado (2021-2023) e de iniciação científica (2019-2021)
-    - Membro do projeto [Petrolês](http://petroles.puc-rio.ai) na equipe de processamento de linguagem natural (PLN). O projeto é realizado no Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio) e é financiado pela Agência Nacional do Petróleo (ANP). O objetivo da equipe de PLN é desenvolver o primeiro corpus brasileiro de textos acadêmicos da área do óleo e gás, permitindo trabalhos de extração automática de informação em textos semelhantes.
+    - Membro do projeto [Petrolês](http://petroles.puc-rio.ai) na equipe de processamento de linguagem natural (PLN). O projeto é realizado no Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio) e é financiado pela Agência Nacional do Petróleo (ANP). O objetivo da equipe de PLN é desenvolver artefatos de PLN que subsidiem a extração automática de informação em textos do domínio do óleo & gás.
 - 2020: University Center for Computer Corpus Research on Language (UCREL/Lancaster University)
     - Assistente de pesquisa
     - Desenvolvimento de sistema de anotação semântica de textos em árabe utilizando Python. O programa é uma versão em árabe do [USAS (UCREL Semantic Analysis System)](http://ucrel.lancs.ac.uk/usas/). O projeto se desenvolveu em parceria com as Zayed University e New York Abu Dhabi University.
@@ -43,7 +44,7 @@ Rio de Janeiro, RJ / Brasil
 
 #### Educação
 
-- 2021-2023: Mestrado no Programa de Pós-Graduação em Estudos da Linguagem da Pontifícia Universidade Católica do Rio de Janeiro (PPGEL/PUC-Rio)
+- 2021-2023: Mestrado em Estudos da Linguagem pela Pontifícia Universidade Católica do Rio de Janeiro (PPGEL/PUC-Rio)
     - [Aprovação em 1º lugar](https://tronco.souelvis.dev/media/APROVADOS_NA_3A_ETAPA_-_MESTRADO.pdf)
     - Bolsista do CNPq (Conselho Nacional de Desenvolvimento Científico e Tecnológico)
     - Bolsista FAPERJ (Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro) -- Mestrado Nota 10
@@ -53,6 +54,8 @@ Rio de Janeiro, RJ / Brasil
     - CR: 9,5
 - 2021: Curso de Extensão Universitária "Python para Processamento de Linguagem Natural", concluído pelo Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo (ICMC/USP)
     - Carga horária: [20 horas](https://tronco.souelvis.dev/media/certificado-python-nlp-usp.pdf)
+- 2021: Minicurso "Introdução à Linguística de Corpus", ministrado pela Prof. Dra. Andressa Rodrigues Gomide, da Universidade de Coimbra, ao Programa Interdisciplinar de Pós-Graduação em Linguística Aplicada da Faculdade de Letras da UFRJ
+    - Carga horária: [5 horas](https://tronco.souelvis.dev/media/minicurso-corpus-andressa-rodrigo.pdf)
 - 2020: Curso "Formação em processamento de corpos, PLN, anotação, e estatística", parte do projeto [BILLIG](https://billig.fcsh.unl.pt/), ministrado pela profa. Diana Santos da Universidade de Oslo
     - Carga horária: [20 horas](https://tronco.souelvis.dev/media/certificadoElvisBILLIG.pdf)
 - 2019: Disciplina "Introdução à Interação Humano-Computador", do Departamento de Informática da PUC-Rio
