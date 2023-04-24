@@ -23,7 +23,7 @@ Rio de Janeiro, RJ / Brasil
 #### Experiência
 
 - 2019-hoje: Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio)
-    - Desenvolver de software júnior (2023-atual)
+    - Desenvolvedor de software júnior (2023-atual)
     - Bolsista de mestrado (2021-2023) e de iniciação científica (2019-2021)
     - Membro do projeto [Petrolês](http://petroles.puc-rio.ai) na equipe de processamento de linguagem natural (PLN). O projeto é realizado no Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio) e é financiado pela Agência Nacional do Petróleo (ANP). O objetivo da equipe de PLN é desenvolver artefatos de PLN que subsidiem a extração automática de informação em textos do domínio do óleo & gás.
 - 2020: University Center for Computer Corpus Research on Language (UCREL/Lancaster University)
