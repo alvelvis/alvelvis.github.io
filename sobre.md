@@ -23,7 +23,7 @@ Rio de Janeiro, RJ / Brasil
 #### Experiência
 
 - 2019-hoje: Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio)
-    - Desenvolvedor de software júnior (2023-atual)
+    - Desenvolvedor de software (2023-hoje)
     - Bolsista de mestrado (2021-2023) e de iniciação científica (2019-2021)
     - Membro do projeto [Petrolês](http://petroles.puc-rio.ai) na equipe de processamento de linguagem natural (PLN). O projeto é realizado no Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio) e é financiado pela Agência Nacional do Petróleo (ANP). O objetivo da equipe de PLN é desenvolver artefatos de PLN que subsidiem a extração automática de informação em textos do domínio do óleo & gás.
 - 2020: University Center for Computer Corpus Research on Language (UCREL/Lancaster University)
@@ -76,6 +76,8 @@ Rio de Janeiro, RJ / Brasil
 {{site.portfolio}}
 
 #### Publicações
+
+- FREITAS, Cláudia; DE SOUZA, Elvis. A study on methods for revising dependency treebanks: in search of gold. In: **Lang Resources & Evaluation**. Springer, 2023. DOI: [https://doi.org/10.1007/s10579-023-09653-4](https://doi.org/10.1007/s10579-023-09653-4).
 
 - KHALLAF, Nouran; DE SOUZA, Elvis; EL-HAJ, Mahmoud; RAYSON, Paul. Semantic domains across topics, genders and languages. In: **Bilingual Writers and Corpus Analysis**. Routledge, 2022. p. 96-120.
 
