@@ -14,7 +14,7 @@ Rio de Janeiro, RJ / Brasil
 - ✉️ - [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)
 - 🏠 - [souelvis.dev](https://souelvis.dev)
 
-Última atualização: 21 de abr. 2023.
+Última atualização: 16 de jun. 2023.
 
 #### Resumo
 
@@ -23,7 +23,7 @@ Rio de Janeiro, RJ / Brasil
 #### Experiência
 
 - 2019-hoje: Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio)
-    - Desenvolvedor de software (2023-hoje)
+    - Pesquisador em Processamento de Linguagem Natural (NLP) (2023-hoje)
     - Bolsista de mestrado (2021-2023) e de iniciação científica (2019-2021)
     - Membro do projeto [Petrolês](http://petroles.puc-rio.ai) na equipe de processamento de linguagem natural (PLN). O projeto é realizado no Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio) e é financiado pela Agência Nacional do Petróleo (ANP). O objetivo da equipe de PLN é desenvolver artefatos de PLN que subsidiem a extração automática de informação em textos do domínio do óleo & gás.
 - 2020: University Center for Computer Corpus Research on Language (UCREL/Lancaster University)
@@ -44,6 +44,7 @@ Rio de Janeiro, RJ / Brasil
 
 #### Educação
 
+- 2023-hoje: Pós-graduação em Business Intelligence/Ciência de Dados na Pontifícia Universidade Católica do Rio de Janeiro (BI MASTER/PUC-Rio)
 - 2021-2023: Mestrado em Estudos da Linguagem pela Pontifícia Universidade Católica do Rio de Janeiro (PPGEL/PUC-Rio)
     - [Aprovação em 1º lugar](https://tronco.souelvis.dev/media/APROVADOS_NA_3A_ETAPA_-_MESTRADO.pdf)
     - Bolsista do CNPq (Conselho Nacional de Desenvolvimento Científico e Tecnológico)
