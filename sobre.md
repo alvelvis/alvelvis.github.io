@@ -25,7 +25,7 @@ Rio de Janeiro, RJ / Brasil
 - 2019-hoje: Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio)
     - Pesquisador em Processamento de Linguagem Natural (NLP) (2023-hoje)
     - Bolsista de mestrado (2021-2023) e de iniciação científica (2019-2021)
-    - Membro do projeto [Petrolês](http://petroles.puc-rio.ai) na equipe de processamento de linguagem natural (PLN). O projeto é realizado no Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio) e é financiado pela Agência Nacional do Petróleo (ANP). O objetivo da equipe de PLN é desenvolver artefatos de PLN que subsidiem a extração automática de informação em textos do domínio do óleo & gás.
+    - Membro do projeto [Petrolês](http://petroles.puc-rio.ai) na equipe de processamento de linguagem natural (PLN). O projeto é realizado no Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio) e é financiado pela Agência Nacional do Petróleo (ANP).
 - 2020: University Center for Computer Corpus Research on Language (UCREL/Lancaster University)
     - Assistente de pesquisa
     - Desenvolvimento de sistema de anotação semântica de textos em árabe utilizando Python. O programa é uma versão em árabe do [USAS (UCREL Semantic Analysis System)](http://ucrel.lancs.ac.uk/usas/). O projeto se desenvolveu em parceria com as Zayed University e New York Abu Dhabi University.
@@ -101,6 +101,8 @@ Rio de Janeiro, RJ / Brasil
 - DE SOUZA, Elvis; FREITAS, Cláudia. “Bastidores linguísticos e computacionais da construção de um dataset linguístico” (Relatório de pesquisa). Departamento de Letras, PUC-Rio. 2020. Disponível em: [http://comcorhd.letras.puc-rio.br/relatorio-anual-2019-2020-do-projeto-construcao-de-datasets-para-o-pln-de-lingua-portuguesa/](http://comcorhd.letras.puc-rio.br/relatorio-anual-2019-2020-do-projeto-construcao-de-datasets-para-o-pln-de-lingua-portuguesa/).
 
 - DE SOUZA, Elvis; SILVEIRA, Aline; CAVALCANTI, Tatiana; EVELYN, Wograine; FREITAS, Cláudia. Diretivas e documentação de anotação UD em português (e para língua portuguesa). 2020. Disponível em: [http://comcorhd.letras.puc-rio.br/documenta-o-ud-pt](http://comcorhd.letras.puc-rio.br/documenta-o-ud-pt).
+
+- SILVEIRA, Aline; DE SOUZA, Elvis; CAVALCANTI, Tatiana; EVELYN, Wograine; FREITAS, Cláudia. Documentação relativa à tokenização e à sentenciação do corpus Petrolês/PetroTok. 2020. Disponível em: [https://www.researchgate.net/publication/373627981_Documentacao_relativa_a_tokenizacao_e_a_sentenciacao_do_corpus_PetrolesPetroTok](https://www.researchgate.net/publication/373627981_Documentacao_relativa_a_tokenizacao_e_a_sentenciacao_do_corpus_PetrolesPetroTok).
 
 - FREITAS, Cláudia; DE SOUZA, Elvis; ROCHA, Luisa. “Quantificando (e qualificando) o sujeito oculto em português”. In: **VI Jornada de Descrição do Português, STIL 2019**. 2019. Disponível em: [http://comcorhd.letras.puc-rio.br/wp-content/uploads/2020/12/sujeito-oculto-stil2019.pdf](http://comcorhd.letras.puc-rio.br/wp-content/uploads/2020/12/sujeito-oculto-stil2019.pdf).
 
