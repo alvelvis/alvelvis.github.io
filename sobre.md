@@ -27,13 +27,13 @@ Rio de Janeiro, RJ / Brasil
     - Bolsista de mestrado (2021-2023) e de iniciação científica (2019-2021)
     - Membro do projeto [Petrolês](http://petroles.puc-rio.ai) na equipe de processamento de linguagem natural (PLN).
 - 2023: Centro de Inteligência Artificial (C4AI/USP)
-    - Assistente de pesquisa no projeto (POeTiSA)[https://sites.google.com/icmc.usp.br/poetisa] (POrtuguese processing - Towards Syntactic Analysis and parsing) auxiliando na anotação sintática e semântica de *corpora* e no desenvolvimento e customização de ferramentas de anotação humana.
+    - Assistente de pesquisa no projeto [POeTiSA](https://sites.google.com/icmc.usp.br/poetisa) (POrtuguese processing - Towards Syntactic Analysis and parsing) auxiliando na anotação sintática e semântica de *corpora* e no desenvolvimento e customização de ferramentas de anotação humana.
 - 2020: University Center for Computer Corpus Research on Language (UCREL/Lancaster University)
     - Assistente de pesquisa, responsável pelo desenvolvimento de sistema de anotação semântica de textos em árabe utilizando Python. O programa é uma versão em árabe do [USAS (UCREL Semantic Analysis System)](http://ucrel.lancs.ac.uk/usas/). O projeto se desenvolveu numa parceria entre Lancaster University, Zayed University e New York Abu Dhabi University.
-- 2019-2020: Departamento de Letras/PUC-Rio
+- 2019-2020: Departamento de Letras da PUC-Rio
     - Bolsista de iniciação científica pelo CNPq (Conselho Nacional de Desenvolvimento Científico e Tecnológico)
     - Participação, durante um ano e meio, no projeto "Construção de datasets para o PLN de Língua Portuguesa", sob coordenação da Prof.ª Dr.ª Cláudia Freitas do Departamento de Letras da PUC-Rio. Financiado pelo CNPq, o projeto contribuiu para o desenvolvimento das versões 2.4, 2.5 e 2.6 do treebank em língua portuguesa [Bosque-UD](https://github.com/UniversalDependencies/UD_Portuguese-Bosque), que é parte do framework [Universal Dependencies](https://universaldependencies.org). Deste projeto resultou uma [documentação](http://comcorhd.letras.puc-rio.br/documenta-o-ud-pt) detalhada das escolhas gramaticais inerentes à anotação em língua portuguesa neste formato. Também foram desenvolvidas [ferramentas para análise e anotação de corpora](https://github.com/alvelvis/Interrogat-rio) que foram usadas por outros pesquisadores e [várias publicações](#publicações) foram realizadas no âmbito do Processamento de Linguagem Natural.
-- 2018-2019: Departamento de Informática/PUC-Rio
+- 2018-2019: Departamento de Informática da PUC-Rio
     - Estagiário no Núcleo de Inovação Tecnológica
     - Desenvolvimento de sistema de reconhecimento de fala e identificação/extração de informações de texto no âmbito da Linguística Computacional/PLN em projeto financiado pelo Banco BTG Pactual.
 - 2018: Núcleo de Orientação e Apoio Psicopedagógico (NOAP/PUC-Rio)
@@ -67,8 +67,8 @@ Rio de Janeiro, RJ / Brasil
     - Carga horária: [45 horas](https://tronco.souelvis.dev/media/CCE_IA2.pdf)
 - 2019: Curso "Inteligência Artificial I (IA I)", do Laboratório de Inteligência Computacional Aplicada, concluído pela CCE/PUC-Rio
     - Carga horária: [45 horas](https://tronco.souelvis.dev/media/CCE_IA1.pdf)
-- 2014-2016: Ensino médio no Colégio de São Bento do Rio de Janeiro
-    - Bolsista integral pelo [ISMART - Instituto Social para Motivar, Apoiar e Reconhecer Talentos](https://ismart.org.br)
+- 2014-2016: Colégio de São Bento do Rio de Janeiro
+    - Ensino Médio com bolsa integral pelo [ISMART - Instituto Social para Motivar, Apoiar e Reconhecer Talentos](https://ismart.org.br)
 
 #### Habilidades
 
@@ -82,11 +82,11 @@ Rio de Janeiro, RJ / Brasil
 
 **2023**
 
-- DE SOUZA, Elvis; FREITAS, Cláudia. Um pronome com muitas funções: Descrição e resultados da anotação do pronome -se em um treebank segundo o esquema Universal Dependencies (UD) para Português. In: SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 14. , 2023, Belo Horizonte/MG. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2023 . p. 278-287. DOI: https://doi.org/10.5753/stil.2023.233986.
+- DE SOUZA, Elvis; FREITAS, Cláudia. Um pronome com muitas funções: Descrição e resultados da anotação do pronome -se em um treebank segundo o esquema Universal Dependencies (UD) para Português. In: SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 14. , 2023, Belo Horizonte/MG. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2023 . p. 278-287. DOI: [https://doi.org/10.5753/stil.2023.233986](https://doi.org/10.5753/stil.2023.233986).
 
-- DE SOUZA, Elvis; FREITAS, Cláudia. Explorando variações no tagset e na anotação Universal Dependencies (UD) para Português: Possibilidades e resultados com base no treebank PetroGold. In: SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 14. , 2023, Belo Horizonte/MG. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2023 . p. 125-134. DOI: https://doi.org/10.5753/stil.2023.233980.
+- DE SOUZA, Elvis; FREITAS, Cláudia. Explorando variações no tagset e na anotação Universal Dependencies (UD) para Português: Possibilidades e resultados com base no treebank PetroGold. In: SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 14. , 2023, Belo Horizonte/MG. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2023 . p. 125-134. DOI: [https://doi.org/10.5753/stil.2023.233980](https://doi.org/10.5753/stil.2023.233980).
 
-- DE SOUZA, Elvis. (2023). Construção e avaliação de um treebank padrão ouro. Mestrado, PUC-Rio. https://doi.org/10.17771/PUCRio.acad.62693
+- DE SOUZA, Elvis. (2023). Construção e avaliação de um treebank padrão ouro. Mestrado, PUC-Rio. [https://doi.org/10.17771/PUCRio.acad.62693](https://doi.org/10.17771/PUCRio.acad.62693)
 
 - FREITAS, Cláudia; DE SOUZA, Elvis. A study on methods for revising dependency treebanks: in search of gold. In: **Lang Resources & Evaluation**. Springer, 2023. DOI: [https://doi.org/10.1007/s10579-023-09653-4](https://doi.org/10.1007/s10579-023-09653-4).
 
