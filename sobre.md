@@ -97,8 +97,6 @@ Rio de Janeiro, RJ / Brasil
 
 - KHALLAF, Nouran; DE SOUZA, Elvis; EL-HAJ, Mahmoud; RAYSON, Paul. Semantic domains across topics, genders and languages. In: **Bilingual Writers and Corpus Analysis**. Routledge, 2022. p. 96-120.
 
-- DE SOUZA, Elvis; SILVEIRA, Aline; CAVALCANTI, Tatiana; CASTRO, Maria Clara; FREITAS, Cláudia. Documentação da anotação morfossintática do PetroGold. 2021. Disponível em: [https://www.researchgate.net/publication/365597977_Documentacao_da_anotacao_morfossintatica_do_PetroGold](https://www.researchgate.net/publication/365597977_Documentacao_da_anotacao_morfossintatica_do_PetroGold). Acesso em: 21 de nov. 2022.
-
 - EL-HAJ, Mahmoud; RAYSON, Paul; DE SOUZA, Elvis; KHALLAF, Nouran; HABASH, Nizar. AraSAS: The Open Source Arabic Semantic Tagger. In: **Proceedings of the 5th Workshop on Open-Source Arabic Corpora and Processing Tools with Shared Tasks on Qur'an QA and Fine-Grained Hate Speech Detection**, p. 23-31, Marseille, France. European Language Resources Association (ELRA), 2022. Disponível em: [http://www.lrec-conf.org/proceedings/lrec2022/workshops/OSACT/pdf/2022.osact-1.3.pdf](http://www.lrec-conf.org/proceedings/lrec2022/workshops/OSACT/pdf/2022.osact-1.3.pdf). Acesso em: 24 de jun. 2022.
 
 - DE SOUZA, Elvis; FREITAS, Cláudia. Still on arguments and adjuncts: the status of the indirect object and the adverbial adjunct relations in Universal Dependencies for Portuguese. In: **Proceedings of the Universal Dependencies Brazilian Festival**, p. 1–10, Fortaleza, Brazil. Association for Computational Linguistics, 2022. Disponível em: [https://aclanthology.org/2022.udfestbr-1.5/](https://aclanthology.org/2022.udfestbr-1.5/). Acesso em: 11 de jun. 2022.
@@ -114,6 +112,8 @@ Rio de Janeiro, RJ / Brasil
 - CAVALCANTI, Tatiana; SILVEIRA, Aline; DE SOUZA, Elvis; FREITAS, Cláudia. Os limites da palavra e da sentença no processamento automático de textos. **Revista Brasileira de Iniciação Científica**, \[S. l.\], v. 8, p. e021033, 2021. Disponível em: [https://periodicoscientificos.itp.ifsp.edu.br/index.php/rbic/article/view/348](https://periodicoscientificos.itp.ifsp.edu.br/index.php/rbic/article/view/348). Acesso em: 15 out. 2021.
 
 - FREITAS, Cláudia; DE SOUZA, Elvis. Sujeito oculto às claras: uma abordagem descritivo-computacional / Omitted subjects revealed: a quantitative-descriptive approach. **REVISTA DE ESTUDOS DA LINGUAGEM**, \[S.l.\], v. 29, n. 2, p. 1033-1058, mar. 2021. ISSN 2237-2083. Available at: <http://www.periodicos.letras.ufmg.br/index.php/relin/article/view/17439>. Date accessed: 20 mar. 2021. DOI: [http://dx.doi.org/10.17851/2237-2083.29.2.1033-1058](http://dx.doi.org/10.17851/2237-2083.29.2.1033-1058).
+
+- DE SOUZA, Elvis; SILVEIRA, Aline; CAVALCANTI, Tatiana; CASTRO, Maria Clara; FREITAS, Cláudia. Documentação da anotação morfossintática do PetroGold. 2021. Disponível em: [https://www.researchgate.net/publication/365597977_Documentacao_da_anotacao_morfossintatica_do_PetroGold](https://www.researchgate.net/publication/365597977_Documentacao_da_anotacao_morfossintatica_do_PetroGold). Acesso em: 21 de nov. 2022.
 
 **2020**
 
