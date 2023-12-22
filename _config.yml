@@ -1,6 +1,6 @@
 name: Elvis de Souza
 #description: "Mestrando em linguística computacional, professor de inglês e desenvolvedor freelancer"
-description: Pesquisador em Processamento de Linguagem Natural (NLP) e mestre em Estudos da Linguagem (PUC-Rio)
+description: Pesquisador em Processamento de Linguagem Natural (NLP) e doutorando em Ciências de Computação e Matemática Computacional (USP)
 meta_description: "Linguagem e tecnologia"
 
 exclude: ['chatbot/flask/']
@@ -22,7 +22,7 @@ picture: '/assets/images/profile.png'
 
 authordesc: "Escrevo sobre humanos, robôs, linguagem, e sobre como humanos e robôs aprendem linguagem."
 authordescen: "I write about humans, robots, language, and how humans and robots learn language."
-profdesc: Pesquisador em Processamento de Linguagem Natural (NLP) no Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio), mestre em Estudos da Linguagem (PPGEL/PUC-Rio) e bacharel em Letras (Português/Inglês) pela PUC-Rio. Interessado em Processamento de Linguagem Natural, Linguística Computacional, Humanidades Digitais, estudos linguísticos descritivos com corpus e educação.
+profdesc: Pesquisador em Processamento de Linguagem Natural (NLP) no Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio). Doutorando em Ciências de Computação e Matemática Computacional (ICMC/USP) e mestre em Estudos da Linguagem (PPGEL/PUC-Rio). Interessado em Processamento de Linguagem Natural, Linguística Computacional, Humanidades Digitais e estudos linguísticos descritivos baseados em corpus.
 
 generalskills: "
 \n- Capacidade de liderança e de trabalho em equipe

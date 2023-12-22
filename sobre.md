@@ -14,7 +14,7 @@ Rio de Janeiro, RJ / Brasil
 - ✉️ - [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)
 - 🏠 - [souelvis.dev](https://souelvis.dev)
 
-Última atualização: 7 de set. 2023.
+Última atualização: 22 de dez. 2023.
 
 #### Resumo
 
@@ -45,7 +45,7 @@ Rio de Janeiro, RJ / Brasil
 
 #### Educação
 
-- 2023-2024: Pós-graduação em Ciência de Dados na Pontifícia Universidade Católica do Rio de Janeiro (BI MASTER/PUC-Rio)
+- 2024-atual: Doutorado em Ciências de Computação e Matemática Computacional pela Universidade de São Paulo (ICMC/USP)
 - 2021-2023: Mestrado em Estudos da Linguagem pela Pontifícia Universidade Católica do Rio de Janeiro (PPGEL/PUC-Rio)
     - Título da dissertação: [Construção e avaliação de um treebank padrão ouro](https://doi.org/10.17771/PUCRio.acad.62693)
     - [Aprovação em 1º lugar na seleção para o mestrado](https://tronco.souelvis.dev/media/APROVADOS_NA_3A_ETAPA_-_MESTRADO.pdf)
