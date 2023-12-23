@@ -23,11 +23,13 @@ Rio de Janeiro, RJ / Brasil
 #### Experiência
 
 - 2019-hoje: Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio)
-    - Pesquisador em Processamento de Linguagem Natural (NLP) (2023-hoje)
+    - Pesquisa e desenvolvimento no campo do Processamento de Linguagem Natural (NLP) e Inteligência Artificial (2023-hoje)
     - Bolsista de mestrado (2021-2023) e de iniciação científica (2019-2021)
-    - Membro do projeto [Petrolês](http://petroles.puc-rio.ai) na equipe de processamento de linguagem natural (PLN).
-- 2023: Centro de Inteligência Artificial (C4AI/USP)
-    - Assistente de pesquisa no projeto [POeTiSA](https://sites.google.com/icmc.usp.br/poetisa) (POrtuguese processing - Towards Syntactic Analysis and parsing) auxiliando na anotação sintática e semântica de *corpora* e no desenvolvimento e customização de ferramentas de anotação humana.
+    - Pesquisador do projeto [Petrolês](http://petroles.puc-rio.ai)
+- 2023-hoje: Centro de Inteligência Artificial (C4AI/USP)
+    - Assistente de pesquisa no projeto [POeTiSA](https://sites.google.com/icmc.usp.br/poetisa) (POrtuguese processing - Towards Syntactic Analysis and parsing) auxiliando na anotação sintática e semântica de *corpora* e no desenvolvimento e customização de ferramentas de anotação humana
+- 2023: Faculdade Descomplica
+    - Professor autor da disciplina de Processamento de Linguagem Natural do curso de graduação Tecnologia em Ciência de Dados
 - 2020: University Center for Computer Corpus Research on Language (UCREL/Lancaster University)
     - Assistente de pesquisa, responsável pelo desenvolvimento de sistema de anotação semântica de textos em árabe utilizando Python. O programa é uma versão em árabe do [USAS (UCREL Semantic Analysis System)](http://ucrel.lancs.ac.uk/usas/). O projeto se desenvolveu numa parceria entre Lancaster University, Zayed University e New York Abu Dhabi University.
 - 2019-2020: Departamento de Letras da PUC-Rio
@@ -46,6 +48,7 @@ Rio de Janeiro, RJ / Brasil
 #### Educação
 
 - 2024-atual: Doutorado em Ciências de Computação e Matemática Computacional pela Universidade de São Paulo (ICMC/USP)
+    - Pesquisa na linha de Processamento de Linguagem Natural
 - 2021-2023: Mestrado em Estudos da Linguagem pela Pontifícia Universidade Católica do Rio de Janeiro (PPGEL/PUC-Rio)
     - Título da dissertação: [Construção e avaliação de um treebank padrão ouro](https://doi.org/10.17771/PUCRio.acad.62693)
     - [Aprovação em 1º lugar na seleção para o mestrado](https://tronco.souelvis.dev/media/APROVADOS_NA_3A_ETAPA_-_MESTRADO.pdf)
