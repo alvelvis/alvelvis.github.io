@@ -1,6 +1,6 @@
 name: Elvis de Souza
 #description: "Mestrando em linguística computacional, professor de inglês e desenvolvedor freelancer"
-description: Linguista | IA e PLN | Doutorando em Ciências de Computação
+description: Linguista | Pesquisador em IA e PLN | Doutorando em Ciências de Computação
 meta_description: "Linguagem e tecnologia"
 
 exclude: ['chatbot/flask/']
