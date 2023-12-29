@@ -5,7 +5,7 @@ title: Sobre mim
 
 <!--{{site.authordesc}} <a href='{{site.english | relative_url}}'>Ensino inglês</a> e <a href='{{site.freela | relative_url}}'>trabalho como desenvolvedor freelancer</a>.-->
 
-**Onde estou:**<br>[GitHub](http://github.com/alvelvis) 👨‍💻 / [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2710924H9) 🧪 / [Twitter](https://twitter.com/alvelviss) 🐦 (perfil pessoal)<br><br>**Seções:**<br>[Resumo](#elvis-de-souza) [Experiência](#experiência) [Educação](#educação) [Habilidades](#habilidades) [Portfólio](#portfólio) [Publicações](#publicações)
+**Onde estou:**<br>[GitHub](http://github.com/alvelvis) 👨‍💻 / [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2710924H9) 🧪 / [Linkedin](https://www.linkedin.com/in/alvelvis/) 🔗 <br><br>**Seções:**<br>[Resumo](#elvis-de-souza) [Experiência](#experiência) [Educação](#educação) [Habilidades](#habilidades) [Portfólio](#portfólio) [Publicações](#publicações)
 
 ## Elvis de Souza
 
