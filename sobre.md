@@ -14,7 +14,7 @@ Rio de Janeiro, RJ / Brasil
 - ✉️ - [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)
 - 🏠 - [souelvis.dev](https://souelvis.dev)
 
-Última atualização: 22 de dez. 2023.
+Última atualização: 05 de jan. 2023.
 
 #### Resumo
 
@@ -86,13 +86,15 @@ Rio de Janeiro, RJ / Brasil
 
 **2023**
 
+- FREITAS, Cláudia; Souza, Elvis; Castro, Maria Clara; Cavalcanti, Tatiana; Ferreira da Silva, Patrícia; & Corrêa Cordeiro, Fábio. Recursos linguísticos para o PLN específico de domínio: o Petrolês. In: **Linguamática, 15(2)**, 2023. p. 51-68. https://doi.org/10.21814/lm.15.2.412
+
 - DE SOUZA, Elvis; FREITAS, Cláudia. Annotation of fixed Multiword Expressions (MWEs) in a Portuguese Universal Dependencies (UD) treebank: Gathering candidates from three different sources. In: **SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 14. , 2023, Belo Horizonte/MG. Anais [...]**. Porto Alegre: Sociedade Brasileira de Computação, 2023 . p. 442-450. DOI: [https://doi.org/10.5753/stil.2023.25484](https://doi.org/10.5753/stil.2023.25484).
 
 - DE SOUZA, Elvis; FREITAS, Cláudia. Um pronome com muitas funções: Descrição e resultados da anotação do pronome -se em um treebank segundo o esquema Universal Dependencies (UD) para Português. In: **SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 14. , 2023, Belo Horizonte/MG. Anais [...]**. Porto Alegre: Sociedade Brasileira de Computação, 2023 . p. 278-287. DOI: [https://doi.org/10.5753/stil.2023.233986](https://doi.org/10.5753/stil.2023.233986).
 
 - DE SOUZA, Elvis; FREITAS, Cláudia. Explorando variações no tagset e na anotação Universal Dependencies (UD) para Português: Possibilidades e resultados com base no treebank PetroGold. In: **SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 14. , 2023, Belo Horizonte/MG. Anais [...]**. Porto Alegre: Sociedade Brasileira de Computação, 2023 . p. 125-134. DOI: [https://doi.org/10.5753/stil.2023.233980](https://doi.org/10.5753/stil.2023.233980).
 
-- DE SOUZA, Elvis. (2023). **Construção e avaliação de um treebank padrão ouro**. Mestrado, PUC-Rio. [https://doi.org/10.17771/PUCRio.acad.62693](https://doi.org/10.17771/PUCRio.acad.62693)
+- DE SOUZA, Elvis. **Construção e avaliação de um treebank padrão ouro**. Mestrado, PUC-Rio, 2023. [https://doi.org/10.17771/PUCRio.acad.62693](https://doi.org/10.17771/PUCRio.acad.62693)
 
 - FREITAS, Cláudia; DE SOUZA, Elvis. A study on methods for revising dependency treebanks: in search of gold. In: **Lang Resources & Evaluation**. Springer, 2023. DOI: [https://doi.org/10.1007/s10579-023-09653-4](https://doi.org/10.1007/s10579-023-09653-4).
 
