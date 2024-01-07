@@ -5,7 +5,7 @@ title: Sobre mim
 
 <!--{{site.authordesc}} <a href='{{site.english | relative_url}}'>Ensino inglês</a> e <a href='{{site.freela | relative_url}}'>trabalho como desenvolvedor freelancer</a>.-->
 
-**Onde estou:**<br>[GitHub](http://github.com/alvelvis) 👨‍💻 / [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2710924H9) 🧪 / [Linkedin](https://www.linkedin.com/in/alvelvis/) 🔗 <br><br>**Seções:**<br>[Resumo](#elvis-de-souza) [Experiência](#experiência) [Educação](#educação) [Habilidades](#habilidades) [Portfólio](#portfólio) [Publicações](#publicações)
+**Onde estou:**<br>[LinkedIn](https://www.linkedin.com/in/alvelvis/) 🔗 / [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2710924H9) 🧪 / [GitHub](http://github.com/alvelvis) 👨‍💻<br><br>**Seções:**<br>[Resumo](#elvis-de-souza) [Experiência](#experiência) [Educação](#educação) [Habilidades](#habilidades) [Portfólio](#portfólio) [Publicações](#publicações)
 
 ## Elvis de Souza
 
@@ -86,7 +86,7 @@ Rio de Janeiro, RJ / Brasil
 
 **2023**
 
-- FREITAS, Cláudia; Souza, Elvis; Castro, Maria Clara; Cavalcanti, Tatiana; Ferreira da Silva, Patrícia; & Corrêa Cordeiro, Fábio. Recursos linguísticos para o PLN específico de domínio: o Petrolês. In: **Linguamática, 15(2)**, 2023. p. 51-68. https://doi.org/10.21814/lm.15.2.412
+- FREITAS, Cláudia; Souza, Elvis; Castro, Maria Clara; Cavalcanti, Tatiana; Ferreira da Silva, Patrícia; & Corrêa Cordeiro, Fábio. Recursos linguísticos para o PLN específico de domínio: o Petrolês. In: **Linguamática, 15(2)**, 2023. p. 51-68. [https://doi.org/10.21814/lm.15.2.412](https://doi.org/10.21814/lm.15.2.412).
 
 - DE SOUZA, Elvis; FREITAS, Cláudia. Annotation of fixed Multiword Expressions (MWEs) in a Portuguese Universal Dependencies (UD) treebank: Gathering candidates from three different sources. In: **SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 14. , 2023, Belo Horizonte/MG. Anais [...]**. Porto Alegre: Sociedade Brasileira de Computação, 2023 . p. 442-450. DOI: [https://doi.org/10.5753/stil.2023.25484](https://doi.org/10.5753/stil.2023.25484).
 
