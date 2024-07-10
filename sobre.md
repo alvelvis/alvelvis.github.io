@@ -14,7 +14,7 @@ Rio de Janeiro, RJ / Brasil
 - ✉️ - [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)
 - 🏠 - [souelvis.dev](https://souelvis.dev)
 
-Última atualização: 05 de jan. 2023.
+Última atualização: 07 de jul. 2024.
 
 #### Resumo
 
@@ -85,6 +85,8 @@ Rio de Janeiro, RJ / Brasil
 #### Publicações
 
 **2023**
+
+- Parecer para a revista Letras, da UFSM, Edição Especial - 1/2023: O falante, o linguista e uma antropologia na linguagem: uma homenagem ao Professor Valdir do Nascimento Flores. Disponível em: [https://periodicos.ufsm.br/letras/issue/view/2319](https://periodicos.ufsm.br/letras/issue/view/2319).
 
 - FREITAS, Cláudia; Souza, Elvis; Castro, Maria Clara; Cavalcanti, Tatiana; Ferreira da Silva, Patrícia; & Corrêa Cordeiro, Fábio. Recursos linguísticos para o PLN específico de domínio: o Petrolês. In: **Linguamática, 15(2)**, 2023. p. 51-68. [https://doi.org/10.21814/lm.15.2.412](https://doi.org/10.21814/lm.15.2.412).
 
