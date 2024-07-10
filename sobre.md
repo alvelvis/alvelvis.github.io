@@ -25,7 +25,7 @@ Rio de Janeiro, RJ / Brasil
 - 2019-hoje: Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio)
     - Pesquisa e desenvolvimento no campo do Processamento de Linguagem Natural (NLP) e Inteligência Artificial (2023-hoje)
     - Bolsista de mestrado (2021-2023) e de iniciação científica (2019-2021)
-    - Pesquisador do projeto [Petrolês](http://petroles.puc-rio.ai)
+    - Pesquisador do projeto [Petrolês](https://petroles.ica.ele.puc-rio.br)
 - 2023-hoje: Centro de Inteligência Artificial (C4AI/USP)
     - Assistente de pesquisa no projeto [POeTiSA](https://sites.google.com/icmc.usp.br/poetisa) (POrtuguese processing - Towards Syntactic Analysis and parsing) auxiliando na anotação sintática e semântica de *corpora* e no desenvolvimento e customização de ferramentas de anotação humana
 - 2023: Faculdade Descomplica
