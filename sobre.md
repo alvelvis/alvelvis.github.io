@@ -5,7 +5,7 @@ title: Sobre mim
 
 <!--{{site.authordesc}} <a href='{{site.english | relative_url}}'>Ensino inglês</a> e <a href='{{site.freela | relative_url}}'>trabalho como desenvolvedor freelancer</a>.-->
 
-**Onde estou:**<br>[LinkedIn](https://www.linkedin.com/in/alvelvis/) 🔗 / [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2710924H9) 🧪 / [GitHub](http://github.com/alvelvis) 👨‍💻<br><br>**Seções:**<br>[Resumo](#elvis-de-souza) [Experiência](#experiência) [Educação](#educação) [Habilidades](#habilidades) [Portfólio](#portfólio) [Publicações](#publicações)
+**Onde estou:**<br>[LinkedIn](https://www.linkedin.com/in/alvelvis/) 🔗 / [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2710924H9) 🧪 / [GitHub](http://github.com/alvelvis) 👨‍💻<br><br>**Seções:**<br>[Resumo](#elvis-de-souza) [Experiência](#experiência) [Educação](#educação) [Habilidades](#habilidades) [Portfólio](#portfólio) [Atividades](#atividades) [Publicações](#publicações)
 
 ## Elvis de Souza
 
@@ -82,11 +82,21 @@ Rio de Janeiro, RJ / Brasil
 
 {{site.portfolio}}
 
-#### Publicações
+#### Atividades
+
+**2024**
+
+- Revisão de trabalhos submetidos para o IEEE LA-CCI 2024. Disponível em: [https://ieee.org.co/la-cci2024/](https://ieee.org.co/la-cci2024/).
 
 **2023**
 
 - Parecer para a revista Letras, da UFSM, Edição Especial - 1/2023: O falante, o linguista e uma antropologia na linguagem: uma homenagem ao Professor Valdir do Nascimento Flores. Disponível em: [https://periodicos.ufsm.br/letras/issue/view/2319](https://periodicos.ufsm.br/letras/issue/view/2319).
+
+#### Publicações
+
+**2023**
+
+- DE SOUZA, Elvis; FREITAS, Cláudia. Avaliação da anotação automática de dependências sintáticas. Revista da ABRALIN, [S. l.], v. 22, n. 2, p. 308–331, 2023. DOI: 10.25189/rabralin.v22i2.2114. Disponível em: [https://revista.abralin.org/index.php/abralin/article/view/2114](https://revista.abralin.org/index.php/abralin/article/view/2114). Acesso em: 4 set. 2024.
 
 - FREITAS, Cláudia; Souza, Elvis; Castro, Maria Clara; Cavalcanti, Tatiana; Ferreira da Silva, Patrícia; & Corrêa Cordeiro, Fábio. Recursos linguísticos para o PLN específico de domínio: o Petrolês. In: **Linguamática, 15(2)**, 2023. p. 51-68. [https://doi.org/10.21814/lm.15.2.412](https://doi.org/10.21814/lm.15.2.412).
 
@@ -99,7 +109,6 @@ Rio de Janeiro, RJ / Brasil
 - DE SOUZA, Elvis. **Construção e avaliação de um treebank padrão ouro**. Mestrado, PUC-Rio, 2023. [https://doi.org/10.17771/PUCRio.acad.62693](https://doi.org/10.17771/PUCRio.acad.62693)
 
 - FREITAS, Cláudia; DE SOUZA, Elvis. A study on methods for revising dependency treebanks: in search of gold. In: **Lang Resources & Evaluation**. Springer, 2023. DOI: [https://doi.org/10.1007/s10579-023-09653-4](https://doi.org/10.1007/s10579-023-09653-4).
-
 
 **2022**
 
