@@ -5,16 +5,16 @@ title: Sobre mim
 
 <!--{{site.authordesc}} <a href='{{site.english | relative_url}}'>Ensino inglês</a> e <a href='{{site.freela | relative_url}}'>trabalho como desenvolvedor freelancer</a>.-->
 
-**Onde estou:**<br>[LinkedIn](https://www.linkedin.com/in/alvelvis/) 🔗 / [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2710924H9) 🧪 / [GitHub](http://github.com/alvelvis) 👨‍💻<br><br>**Seções:**<br>[Resumo](#elvis-de-souza) [Experiência](#experiência) [Educação](#educação) [Habilidades](#habilidades) [Portfólio](#portfólio) [Atividades](#atividades) [Publicações](#publicações)
+**Onde estou:**<br>[Google Scholar](https://scholar.google.com/citations?user=l2BdTF0AAAAJ&hl=pt-BR) 🎓 / [LinkedIn](https://www.linkedin.com/in/alvelvis/) 🔗 / [Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2710924H9) 🧪 / [GitHub](http://github.com/alvelvis) 👨‍💻<br><br>**Seções:**<br>[Resumo](#elvis-de-souza) [Experiência](#experiência) [Educação](#educação) [Habilidades](#habilidades) [Portfólio](#portfólio) [Atividades](#atividades) [Publicações](#publicações)
 
 ## Elvis de Souza
 
-Rio de Janeiro, RJ / Brasil
+Rio de Janeiro, RJ / São Carlos, SP - Brasil
 
 - ✉️ - [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)
 - 🏠 - [souelvis.dev](https://souelvis.dev)
 
-Última atualização: 07 de jul. 2024.
+Última atualização: 07 de set. 2024.
 
 #### Resumo
 
@@ -85,6 +85,8 @@ Rio de Janeiro, RJ / Brasil
 #### Atividades
 
 **2024**
+
+- CORDEIRO, Fábio Corrêa; DA SILVA, Patrícia Ferreira; TESSAROLLO, Alexandre; FREITAS, Cláudia; DE SOUZA, Elvis; GOMES, Diogo da Silva Magalhães; SOUZA, Renato Rocha; COELHO, Flávio Codeço. Petro NLP: Resources for natural language processing and information extraction for the oil and gas industry. Computers & Geosciences, p. 105714, 2024. Disponível em: [https://www.sciencedirect.com/science/article/abs/pii/S0098300424001973](https://www.sciencedirect.com/science/article/abs/pii/S0098300424001973).
 
 - Revisão de trabalhos submetidos para o IEEE LA-CCI 2024. Disponível em: [https://ieee.org.co/la-cci2024/](https://ieee.org.co/la-cci2024/).
 
