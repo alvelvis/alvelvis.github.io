@@ -86,8 +86,6 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 
 **2024**
 
-- CORDEIRO, Fábio Corrêa; DA SILVA, Patrícia Ferreira; TESSAROLLO, Alexandre; FREITAS, Cláudia; DE SOUZA, Elvis; GOMES, Diogo da Silva Magalhães; SOUZA, Renato Rocha; COELHO, Flávio Codeço. Petro NLP: Resources for natural language processing and information extraction for the oil and gas industry. Computers & Geosciences, p. 105714, 2024. Disponível em: [https://www.sciencedirect.com/science/article/abs/pii/S0098300424001973](https://www.sciencedirect.com/science/article/abs/pii/S0098300424001973).
-
 - Revisão de trabalhos submetidos para o IEEE LA-CCI 2024. Disponível em: [https://ieee.org.co/la-cci2024/](https://ieee.org.co/la-cci2024/).
 
 **2023**
@@ -95,6 +93,10 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 - Parecer para a revista Letras, da UFSM, Edição Especial - 1/2023: O falante, o linguista e uma antropologia na linguagem: uma homenagem ao Professor Valdir do Nascimento Flores. Disponível em: [https://periodicos.ufsm.br/letras/issue/view/2319](https://periodicos.ufsm.br/letras/issue/view/2319).
 
 #### Publicações
+
+**2024**
+
+- CORDEIRO, Fábio Corrêa; DA SILVA, Patrícia Ferreira; TESSAROLLO, Alexandre; FREITAS, Cláudia; DE SOUZA, Elvis; GOMES, Diogo da Silva Magalhães; SOUZA, Renato Rocha; COELHO, Flávio Codeço. Petro NLP: Resources for natural language processing and information extraction for the oil and gas industry. Computers & Geosciences, p. 105714, 2024. Disponível em: [https://www.sciencedirect.com/science/article/abs/pii/S0098300424001973](https://www.sciencedirect.com/science/article/abs/pii/S0098300424001973).
 
 **2023**
 
