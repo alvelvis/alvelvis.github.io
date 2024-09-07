@@ -96,11 +96,11 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 
 **2024**
 
-- CORDEIRO, Fábio Corrêa; DA SILVA, Patrícia Ferreira; TESSAROLLO, Alexandre; FREITAS, Cláudia; DE SOUZA, Elvis; GOMES, Diogo da Silva Magalhães; SOUZA, Renato Rocha; COELHO, Flávio Codeço. Petro NLP: Resources for natural language processing and information extraction for the oil and gas industry. Computers & Geosciences, p. 105714, 2024. Disponível em: [https://www.sciencedirect.com/science/article/abs/pii/S0098300424001973](https://www.sciencedirect.com/science/article/abs/pii/S0098300424001973).
+- CORDEIRO, Fábio Corrêa; DA SILVA, Patrícia Ferreira; TESSAROLLO, Alexandre; FREITAS, Cláudia; DE SOUZA, Elvis; GOMES, Diogo da Silva Magalhães; SOUZA, Renato Rocha; COELHO, Flávio Codeço. Petro NLP: Resources for natural language processing and information extraction for the oil and gas industry. **Computers & Geosciences**, p. 105714, 2024. Disponível em: [https://www.sciencedirect.com/science/article/abs/pii/S0098300424001973](https://www.sciencedirect.com/science/article/abs/pii/S0098300424001973).
 
 **2023**
 
-- DE SOUZA, Elvis; FREITAS, Cláudia. Avaliação da anotação automática de dependências sintáticas. Revista da ABRALIN, [S. l.], v. 22, n. 2, p. 308–331, 2023. DOI: 10.25189/rabralin.v22i2.2114. Disponível em: [https://revista.abralin.org/index.php/abralin/article/view/2114](https://revista.abralin.org/index.php/abralin/article/view/2114). Acesso em: 4 set. 2024.
+- DE SOUZA, Elvis; FREITAS, Cláudia. Avaliação da anotação automática de dependências sintáticas. **Revista da ABRALIN**, [S. l.], v. 22, n. 2, p. 308–331, 2023. DOI: 10.25189/rabralin.v22i2.2114. Disponível em: [https://revista.abralin.org/index.php/abralin/article/view/2114](https://revista.abralin.org/index.php/abralin/article/view/2114). Acesso em: 4 set. 2024.
 
 - FREITAS, Cláudia; Souza, Elvis; Castro, Maria Clara; Cavalcanti, Tatiana; Ferreira da Silva, Patrícia; & Corrêa Cordeiro, Fábio. Recursos linguísticos para o PLN específico de domínio: o Petrolês. In: **Linguamática, 15(2)**, 2023. p. 51-68. [https://doi.org/10.21814/lm.15.2.412](https://doi.org/10.21814/lm.15.2.412).
 
