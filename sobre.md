@@ -87,25 +87,25 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 
 **2024**
 
-- Revisão de trabalhos submetidos para o IEEE LA-CCI 2024. Disponível em: [https://ieee.org.co/la-cci2024/](https://ieee.org.co/la-cci2024/).
+- Revisão de trabalhos submetidos para o **IEEE LA-CCI 2024**. Disponível em: [https://ieee.org.co/la-cci2024/](https://ieee.org.co/la-cci2024/).
 
-- Best Paper Award no SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL). Título: *Automatic Annotation of Enhanced Universal Dependencies for Brazilian Portuguese*.
+- Best Paper Award no **SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL)**. Título: *Automatic Annotation of Enhanced Universal Dependencies for Brazilian Portuguese*.
 
 **2023**
 
-- Parecer para a revista Letras, da UFSM, Edição Especial - 1/2023: O falante, o linguista e uma antropologia na linguagem: uma homenagem ao Professor Valdir do Nascimento Flores. Disponível em: [https://periodicos.ufsm.br/letras/issue/view/2319](https://periodicos.ufsm.br/letras/issue/view/2319).
+- Parecer para a revista **Letras, da UFSM**, Edição Especial - 1/2023: O falante, o linguista e uma antropologia na linguagem: uma homenagem ao Professor Valdir do Nascimento Flores. Disponível em: [https://periodicos.ufsm.br/letras/issue/view/2319](https://periodicos.ufsm.br/letras/issue/view/2319).
 
 #### Publicações
 
 **2024**
 
-- DE SOUZA, Elvis A.; DURAN, Magali Sanches; PAGANO, Adriana S.. An NLP approach to impersonal –se in Brazilian Portuguese. In: SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 15. , 2024, Belém/PA. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2024 . p. 346-355. DOI: https://doi.org/10.5753/stil.2024.245307.
+- DE SOUZA, Elvis A.; DURAN, Magali Sanches; PAGANO, Adriana S.. An NLP approach to impersonal –se in Brazilian Portuguese. In: **SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 15. , 2024, Belém/PA. Anais [...].** Porto Alegre: Sociedade Brasileira de Computação, 2024 . p. 346-355. DOI: https://doi.org/10.5753/stil.2024.245307.
 
-- NAVARRO, Laura P.; DE SOUZA, Elvis A.; PACHECO, Marco A. C.. Text extraction from Knowledge Graphs in the Oil and Gas Industry. In: SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 15. , 2024, Belém/PA. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2024 . p. 524-529. DOI: https://doi.org/10.5753/stil.2024.31172.
+- NAVARRO, Laura P.; DE SOUZA, Elvis A.; PACHECO, Marco A. C.. Text extraction from Knowledge Graphs in the Oil and Gas Industry. In: **SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 15. , 2024, Belém/PA. Anais [...].** Porto Alegre: Sociedade Brasileira de Computação, 2024 . p. 524-529. DOI: https://doi.org/10.5753/stil.2024.31172.
 
-- DE SOUZA, Elvis A.; SILVA, Patricia F. da; GOMES, Diogo; BATISTA, Vitor; BATISTA, Evelyn; PACHECO, Marco. TableRAG: A Novel Approach for Augmenting LLMs with Information from Retrieved Tables. In: SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 15. , 2024, Belém/PA. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2024 . p. 182-191. DOI: https://doi.org/10.5753/stil.2024.245371.
+- DE SOUZA, Elvis A.; SILVA, Patricia F. da; GOMES, Diogo; BATISTA, Vitor; BATISTA, Evelyn; PACHECO, Marco. TableRAG: A Novel Approach for Augmenting LLMs with Information from Retrieved Tables. In: **SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 15. , 2024, Belém/PA. Anais [...].** Porto Alegre: Sociedade Brasileira de Computação, 2024 . p. 182-191. DOI: https://doi.org/10.5753/stil.2024.245371.
 
-- DE SOUZA, Elvis A.; DURAN, Magali S.; NUNES, Maria das Graças V.; SAMPAIO, Gustavo; BELASCO, Giovanna; PARDO, Thiago A. S.. Automatic Annotation of Enhanced Universal Dependencies for Brazilian Portuguese. In: SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 15. , 2024, Belém/PA. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2024. p. 217-226. DOI: https://doi.org/10.5753/stil.2024.245342. **(Best Paper Award)**
+- DE SOUZA, Elvis A.; DURAN, Magali S.; NUNES, Maria das Graças V.; SAMPAIO, Gustavo; BELASCO, Giovanna; PARDO, Thiago A. S.. Automatic Annotation of Enhanced Universal Dependencies for Brazilian Portuguese. In: **SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 15. , 2024, Belém/PA. Anais [...].** Porto Alegre: Sociedade Brasileira de Computação, 2024. p. 217-226. DOI: https://doi.org/10.5753/stil.2024.245342. **(Best Paper Award)**
 
 - CORDEIRO, Fábio Corrêa; DA SILVA, Patrícia Ferreira; TESSAROLLO, Alexandre; FREITAS, Cláudia; DE SOUZA, Elvis; GOMES, Diogo da Silva Magalhães; SOUZA, Renato Rocha; COELHO, Flávio Codeço. Petro NLP: Resources for natural language processing and information extraction for the oil and gas industry. **Computers & Geosciences**, p. 105714, 2024. Disponível em: [https://www.sciencedirect.com/science/article/abs/pii/S0098300424001973](https://www.sciencedirect.com/science/article/abs/pii/S0098300424001973).
 
