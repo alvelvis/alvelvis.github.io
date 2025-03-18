@@ -14,7 +14,7 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 - ✉️ - [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)
 - 🏠 - [souelvis.dev](https://souelvis.dev)
 
-Última atualização: 09 de dez. 2024.
+Última atualização: 18 de mar. 2025.
 
 #### Resumo
 
@@ -89,7 +89,9 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 
 - Revisão de trabalhos submetidos para o **IEEE LA-CCI 2024**. Disponível em: [https://ieee.org.co/la-cci2024/](https://ieee.org.co/la-cci2024/).
 
-- Best Paper Award no **SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL)**. Título: *Automatic Annotation of Enhanced Universal Dependencies for Brazilian Portuguese*.
+- Best Paper Award no **SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL)**. Título: *Automatic Annotation of Enhanced Universal Dependencies for Brazilian Portuguese*. Disponível em: [https://doi.org/10.5753/stil.2024.245342](https://doi.org/10.5753/stil.2024.245342).
+
+- Revisão de artigo submetido para o **International Journal of Humanities and Arts Computing (IJHAC Volume 19 Issue 1)**. Disponível em: [https://www.euppublishing.com/toc/ijhac/19/1](https://www.euppublishing.com/toc/ijhac/19/1).
 
 **2023**
 
