@@ -42,20 +42,25 @@ portfolio: "
 \n\t- Anotador semântico de textos em árabe (versão árabe do [USAS - UCREL Semantic Analysis System](http://ucrel.lancs.ac.uk/usas/))
 \n\t- Site: [arasas.souelvis.dev](http://arasas.souelvis.dev/)
 \n\t- Código-fonte: [github.com/UCREL/AraSAS](https://github.com/UCREL/AraSAS). O back-end foi desenvolvido em Python e o aplicativo utiliza o framework Flask.
+\n- Anotador de Dependências Sintáticas Enriquecidas (EUD) para o Português
+\n\t- Interface web para anotação de dependências sintáticas enriquecidas (EUD). O anotador utiliza um conjunto de regras adaptadas do programa [Grew](http://grew.fr/) para o [português brasileiro](https://sol.sbc.org.br/index.php/stil/article/view/31134).
+\n\t- Site: [eud-portugues.souelvis.dev](https://eud-portugues.souelvis.dev/)
+\n- Visualizador de Grafo Enriquecido (EUD)
+\n\t- Interface web para visualização altamente customizável de frases no formato CoNLL-U com anotação de dependências sintáticas enriquecidas (EUD).
+\n\t- Site: [souelvis.dev/enhanced-graph-visualiser/visualise.html](https://souelvis.dev/enhanced-graph-visualiser/visualise.html)
+\n\t- Código-fonte: [github.com/alvelvis/enhanced-graph-visualiser](https://github.com/alvelvis/enhanced-graph-visualiser)
 \n- UD Validate
 \n\t- Interface web para validação de frases anotadas no formato [Universal Dependencies](https://universaldependencies.org/)
 \n\t- Site: [ud-validate.souelvis.dev](https://ud-validate.souelvis.dev/)
 \n\t- Código-fonte: [github.com/alvelvis/ud-validate](https://github.com/alvelvis/ud-validate)
 \n- Interrogatório
 \n\t- Ambiente on-line de busca e revisão de corpora anotados no formato [Universal Dependencies](https://universaldependencies.org/)
-\n\t- Site: [interrogatorio.souelvis.dev](http://interrogatorio.souelvis.dev)
 \n\t- Código-fonte: [github.com/alvelvis/Interrogat-rio](https://github.com/alvelvis/Interrogat-rio)
 \n- Petrolês
 \n\t- Recursos do projeto Petrolês, um repositório de artefatos de Processamento de Linguagem Natural especializados no domínio de petróleo em Português
 \n\t- Site: [petroles.puc-rio.ai](https://petroles.puc-rio.ai/)
 \n- Tronco
 \n\t- Aplicativo de bloco de notas e tarefas multiplataforma
-\n\t- Site: [tronco.souelvis.dev](https://tronco.souelvis.dev)
 \n\t- Código-fonte: [github.com/alvelvis/Tronco](https://github.com/alvelvis/Tronco)
 "
     
