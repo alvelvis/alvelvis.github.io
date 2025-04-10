@@ -45,6 +45,7 @@ portfolio: "
 \n- Anotador de Dependências Sintáticas Enriquecidas (EUD) para o Português
 \n\t- Interface web para anotação de dependências sintáticas enriquecidas (EUD). O anotador utiliza um conjunto de regras adaptadas do programa [Grew](http://grew.fr/) para o [português brasileiro](https://sol.sbc.org.br/index.php/stil/article/view/31134).
 \n\t- Site: [eud-portugues.souelvis.dev](https://eud-portugues.souelvis.dev/)
+\n\t- Código-fonte: [github.com/alvelvis/eud-portugues](https://github.com/alvelvis/eud-portugues)
 \n- Visualizador de Grafo Enriquecido (EUD)
 \n\t- Interface web para visualização altamente customizável de frases no formato CoNLL-U com anotação de dependências sintáticas enriquecidas (EUD).
 \n\t- Site: [souelvis.dev/enhanced-graph-visualiser/visualise.html](https://souelvis.dev/enhanced-graph-visualiser/visualise.html)
