@@ -42,6 +42,10 @@ portfolio: "
 \n\t- Anotador semântico de textos em árabe (versão árabe do [USAS - UCREL Semantic Analysis System](http://ucrel.lancs.ac.uk/usas/))
 \n\t- Site: [arasas.souelvis.dev](http://arasas.souelvis.dev/)
 \n\t- Código-fonte: [github.com/UCREL/AraSAS](https://github.com/UCREL/AraSAS). O back-end foi desenvolvido em Python e o aplicativo utiliza o framework Flask.
+\n- Buscador de frases em corpora anotados no formato CoNLL-U
+\n\t- Interface web para busca de frases em corpora anotados no formato CoNLL-U. Suporta buscas de dependências complexas no padrão Grew e visualização de árvores sintáticas e grafos enriquecidos (EUD).
+\n\t- Site: [conllu.souelvis.dev](https://conllu.souelvis.dev/)
+\n\t- Código-fonte: [github.com/alvelvis/conllu-quick-search](https://github.com/alvelvis/conllu-quick-search)
 \n- Anotador de Dependências Sintáticas Enriquecidas (EUD) para o Português
 \n\t- Interface web para anotação de dependências sintáticas enriquecidas (EUD). O anotador utiliza um conjunto de regras adaptadas do programa [Grew](http://grew.fr/) para o [português brasileiro](https://sol.sbc.org.br/index.php/stil/article/view/31134).
 \n\t- Site: [eud-portugues.souelvis.dev](https://eud-portugues.souelvis.dev/)
