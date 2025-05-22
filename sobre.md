@@ -14,7 +14,7 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 - ✉️ - [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)
 - 🏠 - [souelvis.dev](https://souelvis.dev)
 
-Última atualização: 18 de mar. 2025.
+Última atualização: 22 de maio de 2025.
 
 #### Resumo
 
@@ -94,6 +94,8 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 - Revisão de artigo submetido para o **International Journal of Humanities and Arts Computing (IJHAC Volume 19 Issue 1)**. Disponível em: [https://www.euppublishing.com/toc/ijhac/19/1](https://www.euppublishing.com/toc/ijhac/19/1).
 
 **2023**
+
+- Depósito de patente: **MÉTODO PARA EXTRAÇÃO DE ENTIDADES E RELAÇÕES A PARTIR DE UM CORPUS PARA POVOAR UM GRAFO DE CONHECIMENTO**. Número do registro: BR1020230180280. Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial. Depósito: 05/09/2023. Data de Publicação Nacional: 18/03/2025. Categoria: Processo.
 
 - Parecer para a revista **Letras, da UFSM**, Edição Especial - 1/2023: O falante, o linguista e uma antropologia na linguagem: uma homenagem ao Professor Valdir do Nascimento Flores. Disponível em: [https://periodicos.ufsm.br/letras/issue/view/2319](https://periodicos.ufsm.br/letras/issue/view/2319).
 
