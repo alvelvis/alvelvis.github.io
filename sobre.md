@@ -99,6 +99,12 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 
 - Parecer para a revista **Letras, da UFSM**, Edição Especial - 1/2023: O falante, o linguista e uma antropologia na linguagem: uma homenagem ao Professor Valdir do Nascimento Flores. Disponível em: [https://periodicos.ufsm.br/letras/issue/view/2319](https://periodicos.ufsm.br/letras/issue/view/2319).
 
+- Palestra "Construção de datasets linguísticos: por onde começar?", promovida pelo Laboratório de Inteligência Computacional Aplicada da Pontifícia Universidade Católica do Rio de Janeiro (ICA/PUC-Rio).
+
+- Palestra "Recursos linguísticos e computacionais para o Processamento de Linguagem Natural", promovida pelo Laboratório de Inteligência Computacional Aplicada da Pontifícia Universidade Católica do Rio de Janeiro (ICA/PUC-Rio).
+
+- Palestra "Construção e avaliação de um treebank padrão ouro na prática: Um panorama sobre as ferramentas utilizadas e os resultados obtidos no desenvolvimneto do PetroGold", para o Programa de Pós-Graduação em Estudos da Linguagem da Pontifícia Universidade Católica do Rio de Janeiro (PPGEL/PUC-Rio).
+
 #### Publicações
 
 **2024**
