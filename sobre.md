@@ -103,7 +103,7 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 
 - Palestra "Recursos linguísticos e computacionais para o Processamento de Linguagem Natural", promovida pelo Laboratório de Inteligência Computacional Aplicada da Pontifícia Universidade Católica do Rio de Janeiro (ICA/PUC-Rio).
 
-- Palestra "Construção e avaliação de um treebank padrão ouro na prática: Um panorama sobre as ferramentas utilizadas e os resultados obtidos no desenvolvimneto do PetroGold", para o Programa de Pós-Graduação em Estudos da Linguagem da Pontifícia Universidade Católica do Rio de Janeiro (PPGEL/PUC-Rio).
+- Palestra "Construção e avaliação de um treebank padrão ouro na prática: Um panorama sobre as ferramentas utilizadas e os resultados obtidos no desenvolvimento do PetroGold", para o Programa de Pós-Graduação em Estudos da Linguagem da Pontifícia Universidade Católica do Rio de Janeiro (PPGEL/PUC-Rio).
 
 #### Publicações
 
@@ -127,9 +127,9 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 
 - DE SOUZA, Elvis; FREITAS, Cláudia. Annotation of fixed Multiword Expressions (MWEs) in a Portuguese Universal Dependencies (UD) treebank: Gathering candidates from three different sources. In: **SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 14. , 2023, Belo Horizonte/MG. Anais [...]**. Porto Alegre: Sociedade Brasileira de Computação, 2023 . p. 442-450. DOI: [https://doi.org/10.5753/stil.2023.25484](https://doi.org/10.5753/stil.2023.25484).
 
-- DE SOUZA, Elvis; FREITAS, Cláudia. Um pronome com muitas funções: Descrição e resultados da anotação do pronome -se em um treebank segundo o esquema Universal Dependencies (UD) para Português. In: **SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 14. , 2023, Belo Horizonte/MG. Anais [...]**. Porto Alegre: Sociedade Brasileira de Computação, 2023 . p. 278-287. DOI: [https://doi.org/10.5753/stil.2023.233986](https://doi.org/10.5753/stil.2023.233986).
+- DE SOUZA, Elvis; FREITAS, Cláudia. Um pronome com muitas funções: Descrição e resultados da anotação do pronome -se em um treebank segundo o esquema Universal Dependencies (UD) para Português. In: **SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 14., 2023, Belo Horizonte/MG. Anais [...]**. Porto Alegre: Sociedade Brasileira de Computação, 2023 . p. 278-287. DOI: [https://doi.org/10.5753/stil.2023.233986](https://doi.org/10.5753/stil.2023.233986).
 
-- DE SOUZA, Elvis; FREITAS, Cláudia. Explorando variações no tagset e na anotação Universal Dependencies (UD) para Português: Possibilidades e resultados com base no treebank PetroGold. In: **SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 14. , 2023, Belo Horizonte/MG. Anais [...]**. Porto Alegre: Sociedade Brasileira de Computação, 2023 . p. 125-134. DOI: [https://doi.org/10.5753/stil.2023.233980](https://doi.org/10.5753/stil.2023.233980).
+- DE SOUZA, Elvis; FREITAS, Cláudia. Explorando variações no tagset e na anotação Universal Dependencies (UD) para Português: Possibilidades e resultados com base no treebank PetroGold. In: **SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 14., 2023, Belo Horizonte/MG. Anais [...]**. Porto Alegre: Sociedade Brasileira de Computação, 2023 . p. 125-134. DOI: [https://doi.org/10.5753/stil.2023.233980](https://doi.org/10.5753/stil.2023.233980).
 
 - DE SOUZA, Elvis. **Construção e avaliação de um treebank padrão ouro**. Mestrado, PUC-Rio, 2023. [https://doi.org/10.17771/PUCRio.acad.62693](https://doi.org/10.17771/PUCRio.acad.62693)
 
