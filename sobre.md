@@ -14,7 +14,7 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 - ✉️ - [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)
 - 🏠 - [souelvis.dev](https://souelvis.dev)
 
-Última atualização: 22 de maio de 2025.
+Última atualização: 26 de julho de 2025.
 
 #### Resumo
 
@@ -106,6 +106,10 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 - Palestra "Construção e avaliação de um treebank padrão ouro na prática: Um panorama sobre as ferramentas utilizadas e os resultados obtidos no desenvolvimento do PetroGold", para o Programa de Pós-Graduação em Estudos da Linguagem da Pontifícia Universidade Católica do Rio de Janeiro (PPGEL/PUC-Rio).
 
 #### Publicações
+
+**2025**
+
+- SCALERCIO, A. M. R. D. A.; DE SOUZA, Elvis A.; FINATTO, Maria J. B.; PAES, Aline. Evaluating LLMs for Portuguese Sentence Simplification with Linguistic Insights. In: **Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).** 2025. p. 24452-24477.
 
 **2024**
 
