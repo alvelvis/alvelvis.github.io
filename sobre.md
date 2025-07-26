@@ -109,7 +109,7 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 
 **2025**
 
-- SCALERCIO, A. M. R. D. A.; DE SOUZA, Elvis A.; FINATTO, Maria J. B.; PAES, Aline. Evaluating LLMs for Portuguese Sentence Simplification with Linguistic Insights. In: **Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).** 2025. p. 24452-24477.
+- SCALERCIO, Arthur M. R. D. A.; DE SOUZA, Elvis A.; FINATTO, Maria J. B.; PAES, Aline. Evaluating LLMs for Portuguese Sentence Simplification with Linguistic Insights. In: **Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).** 2025. p. 24452-24477.
 
 **2024**
 
