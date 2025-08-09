@@ -14,7 +14,7 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 - ✉️ - [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)
 - 🏠 - [souelvis.dev](https://souelvis.dev)
 
-Última atualização: 26 de julho de 2025.
+Última atualização: 9 de agosto de 2025.
 
 #### Resumo
 
@@ -108,6 +108,8 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 #### Publicações
 
 **2025**
+
+- DURAN, Magali S.; DE SOUZA, Elvis A.; NUNES, Maria G. V. N.; PAGANO, Adriana S.; PARDO, Thiago A. S.. 2025. Extending the Enhanced Universal Dependencies – addressing subjects in pro-drop languages. In **Proceedings of the Eighth Workshop on Universal Dependencies (UDW, SyntaxFest 2025)**, pages 143–152, Ljubljana, Slovenia. Association for Computational Linguistics.
 
 - SCALERCIO, Arthur M. R. D. A.; DE SOUZA, Elvis A.; FINATTO, Maria J. B.; PAES, Aline. Evaluating LLMs for Portuguese Sentence Simplification with Linguistic Insights. In: **Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).** 2025. p. 24452-24477.
 
