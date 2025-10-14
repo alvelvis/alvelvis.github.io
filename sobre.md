@@ -14,7 +14,7 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 - ✉️ - [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)
 - 🏠 - [souelvis.dev](https://souelvis.dev)
 
-Última atualização: 9 de agosto de 2025.
+Última atualização: 14 de outubro de 2025.
 
 #### Resumo
 
@@ -51,6 +51,7 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
     - Pesquisa na linha de Processamento de Linguagem Natural
     - Título provisório: *Enhanced Dependencies para português: uma investigação sobre métodos computacionais para a anotação das dependências sintáticas enhanced do projeto Universal Dependencies*
 - 2023-2025: Pós-graduação lato sensu em Business Intelligence e Ciência de Dados (BI MASTER/PUC-Rio)
+    - Carga horária: 360 horas
 - 2021-2023: Mestrado em Estudos da Linguagem pela Pontifícia Universidade Católica do Rio de Janeiro (PPGEL/PUC-Rio)
     - Título da dissertação: [Construção e avaliação de um treebank padrão ouro](https://doi.org/10.17771/PUCRio.acad.62693)
     - Aprovação em 1º lugar na seleção para o mestrado
