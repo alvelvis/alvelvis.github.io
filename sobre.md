@@ -14,7 +14,7 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 - ✉️ - [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)
 - 🏠 - [souelvis.dev](https://souelvis.dev)
 
-Última atualização: 14 de outubro de 2025.
+Última atualização: 23 de outubro de 2025.
 
 #### Resumo
 
@@ -86,6 +86,18 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 
 #### Atividades
 
+**2025**
+
+- Aprovação no exame de qualificação de doutorado (ICMC/USP). Título do trabalho: *Investigação de métodos para a anotação automática de Dependências Universais Aprimoradas para o português*
+
+- Participação no Comitê Científico da 35th Brazilian Conference on Intelligent Systems (BRACIS)
+
+- Participação no Comitê Científico do 16th Symposium in Information and Human Language Technology (STIL)
+
+- Participação no Comitê Científico da X Portuguese Description Conference (JDP 2025)
+
+- Participação no Comitê Científico do X Scientific Initiation Workshop in Information Technology and Human Language (TILic 2025)
+
 **2024**
 
 - Revisão de trabalhos submetidos para o **IEEE LA-CCI 2024**. Disponível em: [https://ieee.org.co/la-cci2024/](https://ieee.org.co/la-cci2024/).
@@ -110,9 +122,9 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 
 **2025**
 
-- DURAN, Magali S.; DE SOUZA, Elvis A.; NUNES, Maria G. V. N.; PAGANO, Adriana S.; PARDO, Thiago A. S.. 2025. Extending the Enhanced Universal Dependencies – addressing subjects in pro-drop languages. In **Proceedings of the Eighth Workshop on Universal Dependencies (UDW, SyntaxFest 2025)**, pages 143–152, Ljubljana, Slovenia. Association for Computational Linguistics.
+- DURAN, Magali S.; DE SOUZA, Elvis A.; NUNES, Maria G. V. N.; PAGANO, Adriana S.; PARDO, Thiago A. S.. 2025. Extending the Enhanced Universal Dependencies – addressing subjects in pro-drop languages. In **Proceedings of the Eighth Workshop on Universal Dependencies (UDW, SyntaxFest 2025)**, pages 143–152, Ljubljana, Slovenia. Association for Computational Linguistics. Disponível em: [https://aclanthology.org/2025.udw-1.16/](https://aclanthology.org/2025.udw-1.16/).
 
-- SCALERCIO, Arthur M. R. D. A.; DE SOUZA, Elvis A.; FINATTO, Maria J. B.; PAES, Aline. Evaluating LLMs for Portuguese Sentence Simplification with Linguistic Insights. In: **Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).** 2025. p. 24452-24477.
+- SCALERCIO, Arthur M. R. D. A.; DE SOUZA, Elvis A.; FINATTO, Maria J. B.; PAES, Aline. Evaluating LLMs for Portuguese Sentence Simplification with Linguistic Insights. In: **Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).** 2025. p. 24452-24477. Disponível em: [https://aclanthology.org/2025.acl-long.1193/](https://aclanthology.org/2025.acl-long.1193/).
 
 **2024**
 
