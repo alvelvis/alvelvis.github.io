@@ -88,6 +88,8 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 
 **2025**
 
+- Participação como membro convidado na banca de Estágio em Ciência de dados e Inteligência Artificial (ICMC/USP) do aluno Vinicius Gustierrez Neves
+
 - Aprovação no exame de qualificação de doutorado (ICMC/USP). Título do trabalho: *Investigação de métodos para a anotação automática de Dependências Universais Aprimoradas para o português*
 
 - Participação no Comitê Científico da 35th Brazilian Conference on Intelligent Systems (BRACIS)
