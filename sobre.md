@@ -88,6 +88,8 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 
 **2025**
 
+- Parecer para a revista Linguamática (v. 17 n. 2)
+
 - Participação como membro convidado na banca de Estágio em Ciência de dados e Inteligência Artificial (ICMC/USP) do aluno Vinicius Gustierrez Neves
 
 - Aprovação no exame de qualificação de doutorado (ICMC/USP). Título do trabalho: *Investigação de métodos para a anotação automática de Dependências Universais Aprimoradas para o português*
