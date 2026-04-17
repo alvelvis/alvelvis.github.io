@@ -14,7 +14,7 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 - ✉️ - [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)
 - 🏠 - [souelvis.dev](https://souelvis.dev)
 
-Última atualização: 23 de outubro de 2025.
+Última atualização: 17 de abril de 2026.
 
 #### Resumo
 
@@ -124,6 +124,12 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 
 #### Publicações
 
+**2026**
+
+- CALDAS, Josue D. V.; DE SOUZA, Elvis A.; SILVA, Patrícia F. da; PACHECO, Marco A. C.. 2026. Specializing a Small Language Model for Closed-Domain Portuguese RAG using Knowledge Graph Supervision. In **Proceedings of the 17th International Conference on Computational Processing of Portuguese (PROPOR 2026) - Vol. 1**, pages 281–290, Salvador, Brazil. Association for Computational Linguistics. Disponível em: [https://aclanthology.org/2026.propor-1.28/](https://aclanthology.org/2026.propor-1.28/).
+
+- DE SOUZA, Elvis A.; PARDO, Thiago A. S.. 2026. Enhanced Universal Dependencies in the Wild: Evaluating Portuguese EUD Parsing in Realistic Scenarios. In **Proceedings of the 17th International Conference on Computational Processing of Portuguese (PROPOR 2026) - Vol. 1**, pages 321–330, Salvador, Brazil. Association for Computational Linguistics. Disponível em: [https://aclanthology.org/2026.propor-1.32/](https://aclanthology.org/2026.propor-1.32/).
+
 **2025**
 
 - CALDAS, Josue D. V.; DE SOUZA, Elvis A.. 2025. A Comprehensive Evaluation of Large Language Models for Retrieval-Augmented Generation under Noisy Conditions. In **Proceedings of the 1st Workshop on Confabulation, Hallucinations and Overgeneration in Multilingual and Practical Settings (CHOMPS 2025)**, pages 60–69, Mumbai, India. Association for Computational Linguistics. Disponível em: [https://aclanthology.org/2025.chomps-main.6/](https://aclanthology.org/2025.chomps-main.6/).
@@ -138,11 +144,11 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 
 - NAVARRO, Laura P.; DE SOUZA, Elvis A.; PACHECO, Marco A. C.. Text extraction from Knowledge Graphs in the Oil and Gas Industry. In: **SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 15. , 2024, Belém/PA. Anais [...].** Porto Alegre: Sociedade Brasileira de Computação, 2024 . p. 524-529. DOI: [https://doi.org/10.5753/stil.2024.31172](https://doi.org/10.5753/stil.2024.31172).
 
-- DE SOUZA, Elvis A.; SILVA, Patricia F. da; GOMES, Diogo; BATISTA, Vitor; BATISTA, Evelyn; PACHECO, Marco. TableRAG: A Novel Approach for Augmenting LLMs with Information from Retrieved Tables. In: **SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 15. , 2024, Belém/PA. Anais [...].** Porto Alegre: Sociedade Brasileira de Computação, 2024 . p. 182-191. DOI: [https://doi.org/10.5753/stil.2024.245371](https://doi.org/10.5753/stil.2024.245371).
+- DE SOUZA, Elvis A.; SILVA, Patrícia F. da; GOMES, Diogo; BATISTA, Vitor; BATISTA, Evelyn; PACHECO, Marco. TableRAG: A Novel Approach for Augmenting LLMs with Information from Retrieved Tables. In: **SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 15. , 2024, Belém/PA. Anais [...].** Porto Alegre: Sociedade Brasileira de Computação, 2024 . p. 182-191. DOI: [https://doi.org/10.5753/stil.2024.245371](https://doi.org/10.5753/stil.2024.245371).
 
 - DE SOUZA, Elvis A.; DURAN, Magali S.; NUNES, Maria das Graças V.; SAMPAIO, Gustavo; BELASCO, Giovanna; PARDO, Thiago A. S.. Automatic Annotation of Enhanced Universal Dependencies for Brazilian Portuguese. In: **SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 15. , 2024, Belém/PA. Anais [...].** Porto Alegre: Sociedade Brasileira de Computação, 2024. p. 217-226. DOI: [https://doi.org/10.5753/stil.2024.245342](https://doi.org/10.5753/stil.2024.245342). **(Best Paper Award)**
 
-- CORDEIRO, Fábio Corrêa; DA SILVA, Patrícia Ferreira; TESSAROLLO, Alexandre; FREITAS, Cláudia; DE SOUZA, Elvis; GOMES, Diogo da Silva Magalhães; SOUZA, Renato Rocha; COELHO, Flávio Codeço. Petro NLP: Resources for natural language processing and information extraction for the oil and gas industry. **Computers & Geosciences**, p. 105714, 2024. Disponível em: [https://www.sciencedirect.com/science/article/abs/pii/S0098300424001973](https://www.sciencedirect.com/science/article/abs/pii/S0098300424001973).
+- CORDEIRO, Fábio C.; SILVA, Patrícia F. da; TESSAROLLO, Alexandre; FREITAS, Cláudia; DE SOUZA, Elvis A.; GOMES, Diogo da S. M.; SOUZA, Renato R.; COELHO, Flávio C.. Petro NLP: Resources for natural language processing and information extraction for the oil and gas industry. **Computers & Geosciences**, p. 105714, 2024. Disponível em: [https://www.sciencedirect.com/science/article/abs/pii/S0098300424001973](https://www.sciencedirect.com/science/article/abs/pii/S0098300424001973).
 
 **2023**
 
