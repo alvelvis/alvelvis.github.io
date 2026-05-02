@@ -86,6 +86,10 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 
 #### Atividades
 
+**2026**
+
+- Certificação de proficiência em língua inglesa - nível Advanced: CEFR C1 ([certificado](https://certs.duolingo.com/dajrsrqtbo3oi4cs))
+
 **2025**
 
 - Parecer para a revista Linguamática (v. 17 n. 2)
@@ -134,7 +138,7 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 
 - CALDAS, Josue D. V.; DE SOUZA, Elvis A.. 2025. A Comprehensive Evaluation of Large Language Models for Retrieval-Augmented Generation under Noisy Conditions. In **Proceedings of the 1st Workshop on Confabulation, Hallucinations and Overgeneration in Multilingual and Practical Settings (CHOMPS 2025)**, pages 60–69, Mumbai, India. Association for Computational Linguistics. Disponível em: [https://aclanthology.org/2025.chomps-main.6/](https://aclanthology.org/2025.chomps-main.6/).
 
-- DURAN, Magali S.; DE SOUZA, Elvis A.; NUNES, Maria G. V. N.; PAGANO, Adriana S.; PARDO, Thiago A. S.. 2025. Extending the Enhanced Universal Dependencies – addressing subjects in pro-drop languages. In **Proceedings of the Eighth Workshop on Universal Dependencies (UDW, SyntaxFest 2025)**, pages 143–152, Ljubljana, Slovenia. Association for Computational Linguistics. Disponível em: [https://aclanthology.org/2025.udw-1.16/](https://aclanthology.org/2025.udw-1.16/).
+- DURAN, Magali S.; DE SOUZA, Elvis A.; NUNES, Maria das Graças V.; PAGANO, Adriana S.; PARDO, Thiago A. S.. 2025. Extending the Enhanced Universal Dependencies – addressing subjects in pro-drop languages. In **Proceedings of the Eighth Workshop on Universal Dependencies (UDW, SyntaxFest 2025)**, pages 143–152, Ljubljana, Slovenia. Association for Computational Linguistics. Disponível em: [https://aclanthology.org/2025.udw-1.16/](https://aclanthology.org/2025.udw-1.16/).
 
 - SCALERCIO, Arthur M. R. D. A.; DE SOUZA, Elvis A.; FINATTO, Maria J. B.; PAES, Aline. Evaluating LLMs for Portuguese Sentence Simplification with Linguistic Insights. In: **Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).** 2025. p. 24452-24477. Disponível em: [https://aclanthology.org/2025.acl-long.1193/](https://aclanthology.org/2025.acl-long.1193/).
 
