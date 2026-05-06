@@ -23,7 +23,7 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 #### Experiência
 
 - 2019-hoje: Laboratório de Inteligência Computacional Aplicada (ICA/PUC-Rio)
-    - Pesquisa e desenvolvimento no campo do Processamento de Linguagem Natural (NLP) e Inteligência Artificial (2023-hoje)
+    - Pesquisador sênior no campo do Processamento de Linguagem Natural (NLP) e Inteligência Artificial (2023-hoje)
     - Bolsista de mestrado (2021-2023) e de iniciação científica (2019-2021)
     - Pesquisador no projeto [Petrolês](https://petroles.ica.ele.puc-rio.br)
 - 2023-2024: Centro de Inteligência Artificial (C4AI/USP)
