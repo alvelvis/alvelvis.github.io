@@ -158,7 +158,7 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 
 - DE SOUZA, Elvis; FREITAS, Cláudia. Avaliação da anotação automática de dependências sintáticas. **Revista da ABRALIN**, [S. l.], v. 22, n. 2, p. 308–331, 2023. DOI: 10.25189/rabralin.v22i2.2114. Disponível em: [https://revista.abralin.org/index.php/abralin/article/view/2114](https://revista.abralin.org/index.php/abralin/article/view/2114). Acesso em: 4 set. 2024.
 
-- FREITAS, Cláudia; Souza, Elvis; Castro, Maria Clara; Cavalcanti, Tatiana; Ferreira da Silva, Patrícia; & Corrêa Cordeiro, Fábio. Recursos linguísticos para o PLN específico de domínio: o Petrolês. In: **Linguamática, 15(2)**, 2023. p. 51-68. [https://doi.org/10.21814/lm.15.2.412](https://doi.org/10.21814/lm.15.2.412).
+- FREITAS, Cláudia; DE SOUZA, Elvis; CASTRO, Maria Clara; CAVALCANTI, Tatiana; FERREIRA, Patrícia; CORDEIRO, Fábio. Recursos linguísticos para o PLN específico de domínio: o Petrolês. In: **Linguamática, 15(2)**, 2023. p. 51-68. [https://doi.org/10.21814/lm.15.2.412](https://doi.org/10.21814/lm.15.2.412).
 
 - DE SOUZA, Elvis; FREITAS, Cláudia. Annotation of fixed Multiword Expressions (MWEs) in a Portuguese Universal Dependencies (UD) treebank: Gathering candidates from three different sources. In: **SIMPÓSIO BRASILEIRO DE TECNOLOGIA DA INFORMAÇÃO E DA LINGUAGEM HUMANA (STIL), 14. , 2023, Belo Horizonte/MG. Anais [...]**. Porto Alegre: Sociedade Brasileira de Computação, 2023 . p. 442-450. DOI: [https://doi.org/10.5753/stil.2023.25484](https://doi.org/10.5753/stil.2023.25484).
 
