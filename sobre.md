@@ -14,7 +14,7 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 - ✉️ - [elvis.desouza99@gmail.com](mailto:elvis.desouza99@gmail.com)
 - 🏠 - [souelvis.dev](https://souelvis.dev)
 
-Última atualização: 17 de abril de 2026.
+Última atualização: 20 de junho de 2026.
 
 #### Resumo
 
@@ -87,6 +87,8 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 #### Atividades
 
 **2026**
+
+- Participação como membro convidado na banca de TCC (ICMC/USP) do aluno Bruno Berndt Lima
 
 - Certificação de proficiência em língua inglesa - nível Advanced: CEFR C1 ([certificado](https://certs.duolingo.com/dajrsrqtbo3oi4cs))
 
