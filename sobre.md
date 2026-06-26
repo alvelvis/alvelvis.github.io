@@ -88,6 +88,9 @@ Rio de Janeiro, RJ / São Carlos, SP - Brasil
 
 **2026**
 
+- Participação na Mesa 6 – Perspectivas sobre Acervos de Diversidade Linguística, Modelos de Linguagem e Inteligência Responsável
+ do [II Fórum Global de Humanidades Digitais e Linguagens](https://www.even3.com.br/ii-forum-global-de-humanidades-digitais-e-linguagens-734485/)
+
 - Participação no Comitê Científico da XI Portuguese Description Conference (JDP 2026)
 
 - Participação no Comitê Científico do XI Scientific Initiation Workshop in Information Technology and Human Language (TILic 2026)
